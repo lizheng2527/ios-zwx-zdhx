@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "报修时间:"; ObjectID = "Bfn-a2-FqG"; */
+"Bfn-a2-FqG.text" = "Repair time:";
+
+/* Class = "UIButton"; normalTitle = "查看"; ObjectID = "OTF-ws-ARA"; */
+"OTF-ws-ARA.normalTitle" = "View";
+
+/* Class = "UIButton"; normalTitle = "删除"; ObjectID = "P5N-4w-cTX"; */
+"P5N-4w-cTX.normalTitle" = "Del";
+
+/* Class = "UIButton"; normalTitle = "维修反馈"; ObjectID = "V8P-lL-UKa"; */
+"V8P-lL-UKa.normalTitle" = "Maintenance feedback";
+
+/* Class = "UILabel"; text = "维修状态"; ObjectID = "Xnr-4n-aWi"; */
+"Xnr-4n-aWi.text" = "Maintenance status";
+
+/* Class = "UILabel"; text = "故障描述:"; ObjectID = "xli-i6-rce"; */
+"xli-i6-rce.text" = "Fault description:";

@@ -1,0 +1,880 @@
+/* 
+  Localizable.strings
+  NIM
+
+  Created by 中电和讯 on 2018/8/31.
+  Copyright © 2018年 Netease. All rights reserved.
+*/
+
+"APP_Main_TabBarMessage"="消息";
+"APP_Main_TabBarContacter"="通讯录";
+"APP_Main_TabBarApplication"="应用";
+"APP_Main_TabBarCircle"="圈子";
+
+"APP_General_Confirm"=" 确 定 ";
+"APP_General_Cancel"=" 取 消 ";
+"APP_General_Prompt"="提示";
+"APP_General_Submit"="提交";
+"APP_General_Submit_Success"="提交成功";
+"APP_General_Submit_Failure"="提交失败";
+"APP_General_wu"="无";
+
+"APP_General_Send"="发送";
+"APP_General_openCamera"="请去-> [设置 - 隐私 - 相机 - 智微校] 打开访问开关";
+"APP_General_cantFindCamera"="未检测到您的摄像头";
+"APP_General_GettingData"="获取数据中...";
+"APP_General_noData"="暂无数据";
+"APP_General_noMoreData"="暂无更多数据";
+"APP_General_isNewestData"="已是最新数据";
+"APP_General_serverFailure"="获取数据失败";
+"APP_General_isSearching"="正在搜索";
+"APP_General_notAnymore"="暂无更多";
+
+"APP_General_onLine"="在线";
+"APP_General_offLine"="离线";
+"APP_General_copppy"="复制";
+"APP_General_mobileVersion"="移动";
+"APP_General_computerVersion"="电脑";
+"APP_General_webVersion"="网页";
+"APP_General_scanCodeToLogin"="扫描二维码登录web端智微校";
+"APP_General_OpenLigght"="打开照明灯";
+"APP_General_closeLigght"="关闭照明灯";
+"APP_General_sacnAndScan"="扫一扫";
+
+
+
+//临时补充
+"APP_YUNXIN_identityLalbel"="身份";
+"APP_YUNXIN_groupCard"="群名片";
+"APP_YUNXIN_setForbiden"="设置禁言";
+
+//临时补充
+"APP_YUNXIN_nowUsingKnow"="正在使用智微校";
+"APP_YUNXIN_nowUsingBan"="版";
+"APP_YUNXIN_nowUsingUnKnow"="正在使用智微校未知版本";
+"APP_YUNXIN_nowUsingDUODUAN" = "多端登录管理";
+"APP_YUNXIN_unknowTimeCreate"="未知时间创建";
+"APP_YUNXIN_createYU"="于";
+"APP_YUNXIN_Create"="创建";
+"APP_YUNXIN_UnotInGroup"="你已经不在群里";
+"APP_YUNXIN_inviteJoinFriendFailed"="拉好友失败";
+"APP_YUNXIN_groupMember"="群成员";
+"APP_YUNXIN_groupName"="群名称";
+"APP_YUNXIN_groupNickName"="群昵称";
+"APP_YUNXIN_changeGroupNickName" = "修改群昵称";
+"APP_YUNXIN_GroupDes"="群介绍";
+"APP_YUNXIN_tapInputGroupDes"="点击填写群介绍";
+"APP_YUNXIN_tapInputGroupNote"="点击填写群公告";
+"APP_YUNXIN_GroupNote"="群公告";
+"APP_YUNXIN_createGroupNote"="新建群公告";
+"APP_YUNXIN_outAdvGroup"="退出高级群";
+"APP_YUNXIN_disBandGroupTalk"="解散群聊";
+"APP_YUNXIN_indentifyAjax"="身份验证";
+"APP_YUNXIN_inviteOtherLimit"="邀请他人权限";
+"APP_YUNXIN_changeGroupInfooo"="修改群介绍";
+"APP_YUNXIN_sureToOutGroupTalk"="确认退出群聊?";
+"APP_YUNXIN_sureToDisbandGroupTalk"="确认解散群聊?";
+"APP_YUNXIN_changelimitWays"="更改验证方式";
+"APP_YUNXIN_limitAllPerson"= "允许任何人";
+"APP_YUNXIN_refuseAllPerson"="拒绝任何人";
+"APP_YUNXIN_groupInviteJoin"="邀请他人入群";
+"APP_YUNXIN_groupAdminInvite"="管理员邀请";
+"APP_YUNXIN_groupNormalInvite"="所有人邀请";
+"APP_YUNXIN_UpdategroupInfoChangeLiimt"="更新了群资料修改权限";
+"APP_YUNXIN_groupInfoChangeLiimt"="群资料修改权限";
+"APP_YUNXIN_groupInfoAdminChange"="管理员修改";
+"APP_YUNXIN_groupInfoAllChange"="所有人修改";
+"APP_YUNXIN_invitedpersonAjax"="被邀请人身份验证";
+"APP_YUNXIN_NeedYanzheng"= "需要验证";
+"APP_YUNXIN_notNeedYanzheng"="不需要验证";
+"APP_YUNXIN_groupAdmin"="管理员";
+"APP_YUNXIN_groupNormalMember"="普通成员";
+"APP_YUNXIN_groupOwner"="群主";
+"APP_YUNXIN_AllofPerson"="所有人";
+"APP_YUNXIN_unKnowLimit"="未知权限";
+"APP_YUNXIN_unKnow"="未知";
+"APP_YUNXIN_groupInviteSuccess"="邀请成功";
+"APP_YUNXIN_groupInviteFailed"="邀请失败";
+"APP_YUNXIN_removeFromGroup"= "移出本群";
+"APP_YUNXIN_talkInfo"= "聊天信息";
+"APP_YUNXIN_creatTalkGroup"="创建讨论组";
+"APP_YUNXIN_creatTalkGroupFailed"="创建讨论组失败";
+
+"APP_YUNXIN_hasRead" = "已读";
+"APP_YUNXIN_chatRecord"="聊天记录";
+"APP_YUNXIN_invite"="邀请";
+
+"APP_YUNXIN_haveAgree"="已同意";
+"APP_YUNXIN_haveRefuse"="已拒绝";
+//======================
+"APP_YUNXIN_disGroupName"="讨论组名称";
+"APP_YUNXIN_outDisGroup"="退出讨论组";
+"APP_YUNXIN_getDisGroupMemberFailed"="讨论组成员获取失败";
+"APP_YUNXIN_UoutDisGroup"="你已经不在讨论组里";
+"APP_YUNXIN_changedisGroupName"="修改讨论组名称";
+"APP_YUNXIN_sureOutdisGroup"="确认退出讨论组?";
+"APP_YUNXIN_invitejoindisGroup"="邀请你加入讨论组";
+"APP_YUNXIN_invitejoindisGroupSuccess"="邀请成功，等待验证";
+"APP_YUNXIN_PlzOperation"="请操作";
+"APP_YUNXIN_zhuanrangGroup"="转让群";
+"APP_YUNXIN_zhuanrangGroupOut"="转让群并退出";
+"APP_YUNXIN_setGroupImage"="设置群头像";
+"APP_YUNXIN_setGroupName"="设置群名称";
+"APP_YUNXIN_adminOp"="管理员操作";
+"APP_YUNXIN_adminOpCancel"="取消管理员";
+"APP_YUNXIN_adminOpSet"="设为管理员";
+"APP_YUNXIN_tiSuccess"="踢人成功";
+"APP_YUNXIN_tiFailed"="踢人失败";
+"APP_YUNXIN_CreateNew"="新建";
+"APP_YUNXIN_tranToSuccess"="转移成功";
+"APP_YUNXIN_joinIn"="加入";
+"APP_YUNXIN_joinIngroupNum"="加入群组";
+"APP_YUNXIN_groupNum"="群号";
+"APP_YUNXIN_groupCantjoinIn" = "该群无法申请加入";
+"APP_YUNXIN_inputAjaxInfo"="输入验证信息";
+"APP_YUNXIN_applySuccessWaitAjax"="申请成功，等待验证";
+"APP_YUNXIN_hasInGroup"="已经在群里";
+"APP_YUNXIN_applyGroupFailed"="群申请失败";
+
+"APP_YUNXIN_yesTerday"="昨天";
+"APP_YUNXIN_qiantian"="前天";
+"APP_YUNXIN_midnight"="凌晨";
+"APP_YUNXIN_morning"="上午";
+"APP_YUNXIN_afternoon"="下午";
+"APP_YUNXIN_evening"="晚上";
+
+"APP_YUNXIN_tip_bcakMessage"="撤回了一条消息";
+"APP_YUNXIN_tip_Manglu"="忙碌";
+"APP_YUNXIN_tip_goAway"="离开";
+"APP_YUNXIN_tip_autoLoginFailed"="自动登录失败";
+"APP_YUNXIN_tip_autoLoginFailedWIthNetCheck"="自动登录错误次数超限，请检查网络后重试";
+"APP_YUNXIN_tip_pwError"="密码错误";
+"APP_YUNXIN_tip_otherLogining"="当前已经其他设备登录，请使用手动模式登录";
+
+"APP_YUNXIN_tip_jiechuJinYan"="解除全体禁言";
+"APP_YUNXIN_tip_jinYanButAdmin"="全体禁言，管理员可发言";
+"APP_YUNXIN_tip_updateUserInfo"="更新了自己的个人信息";
+"APP_YUNXIN_tip_linshiJInyan"="被管理员解除临时禁言";
+
+"APP_YUNXIN_tip_beiJInyan"="被管理员禁言";
+"APP_YUNXIN_tip_UbeiLinshiJInyan"="你已被临时禁言";
+"APP_YUNXIN_tip_UbeiJInyan"="你已被禁言";
+"APP_YUNXIN_tip_chatRomU"="你";
+
+"APP_YUNXIN_tip_unknowSysMessage"="未知系统消息";
+"APP_YUNXIN_tip_JInyan"="禁言" ;
+"APP_YUNXIN_tip_jiechuDanrenJInyan"="解除禁言";
+
+"APP_YUNXIN_tip_Be"="被";
+"APP_YUNXIN_tip_zhuanyiAdminTo"="转移了群主身份给";
+"APP_YUNXIN_tip_addToAdmin"="被添加为群管理员";
+"APP_YUNXIN_tip_removeAdmin"="被撤销了群管理员身份";
+"APP_YUNXIN_tip_deyaoqing"="的邀请进群";
+"APP_YUNXIN_tip_accept"="接受";
+"APP_YUNXIN_tip_gengxinle"="更新了";
+"APP_YUNXIN_tip_laikaile"="离开了";
+"APP_YUNXIN_tip_jinrule"="进入了";
+"APP_YUNXIN_tip_tongguole"="通过了";
+"APP_YUNXIN_tip_jielanle"="解散了";
+"APP_YUNXIN_tip_yichule"="移出了";
+"APP_YUNXIN_tip_gengxinleInviteLimit"="更新了邀请他人权限";
+"APP_YUNXIN_tip_gengxinleBeiInviteLimit"="更新了被邀请人身份验证权限";
+"APP_YUNXIN_tip_setAllJInYan"="设置了群全体禁言";
+"APP_YUNXIN_tip_cancelAllJInYan"="取消了全体禁言";
+"APP_YUNXIN_tip_info"="信息";
+"APP_YUNXIN_tip_invitation"="的申请";
+"APP_YUNXIN_tip_name"="信息";
+"APP_YUNXIN_tip_des"="介绍";
+"APP_YUNXIN_tip_note"="公告";
+"APP_YUNXIN_tip_ajaxWays"="验证方式";
+"APP_YUNXIN_tip_headImage"="头像";
+"APP_YUNXIN_tip_U"="你";
+"APP_YUNXIN_tip_duifang"="对方";
+
+"APP_YUNXIN_tip_hasAddFried"="已添加你为好友";
+"APP_YUNXIN_tip_requestAddFriend"="请求添加你为好友";
+"APP_YUNXIN_tip_passFriend"="通过了你的好友请求";
+"APP_YUNXIN_tip_refuseFriend"="拒绝了你的好友请求";
+"APP_YUNXIN_tip_unknowMessageRequest"="未知请求";
+"APP_YUNXIN_tip_applyUJoin"="申请加入群";
+"APP_YUNXIN_tip_refuseUjoin"="拒绝你加入";
+"APP_YUNXIN_tip_inviteUjoin"="邀请你加入";
+"APP_YUNXIN_tip_refuseGroup"="拒绝了群";
+"APP_YUNXIN_tip_invitationnn"="邀请";
+"APP_YUNXIN_tip_nickNameNote"="好的昵称可以让你的朋友更容易记住你";
+"APP_YUNXIN_tip_notiALL"="提醒所有消息";
+"APP_YUNXIN_tip_notiAdmin"="只提醒管理员消息";
+"APP_YUNXIN_tip_notiNothing"="不提醒任何消息";
+
+
+
+
+
+//消息-会话列表
+"APP_YUNXIN_NoConversation"="还没有会话，在通讯录中找个人聊聊吧";
+"APP_YUNXIN_setAllRead"="标记所有消息为已读";
+"APP_YUNXIN_clearMessage"="清理所有消息";
+"APP_YUNXIN_MyComputer"="我的电脑";
+"App_YUNXIN_noPushData" = "暂无新推送消息";
+"App_YUNXIN_receiveNewMessage" ="您收到一条新的推送消息";
+"APP_YUNXIN_noLink"="(未连接)";
+"APP_YUNXIN_linking"="(连接中)";
+"APP_YUNXIN_synData"="(同步数据)";
+"APP_YUNXIN_noMoreData"="暂无更多数据";
+
+"APP_YUNXIN_sbAtU"="[有人@你]";
+"APP_YUNXIN_clearAfterRead"="[阅后即焚]";
+"APP_YUNXIN_mora"="[猜拳]";
+"APP_YUNXIN_addPic"="[贴图]";
+"APP_YUNXIN_whiteBoard"="[白板]";
+"APP_YUNXIN_RedEnvelope"="[红包消息]";
+"APP_YUNXIN_unknownMessage"="[未知消息]";
+
+"APP_YUNXIN_AUDIO"="[语音]";
+"APP_YUNXIN_PIC"="[图片]";
+"APP_YUNXIN_VIDEO"="[视频]";
+"APP_YUNXIN_LOCATION"="[位置]";
+"APP_YUNXIN_FILE"="[文件]";
+
+"APP_YUNXIN_netCall"="[网络通话]";
+"APP_YUNXIN_VideoCall"="[视频聊天]";
+"APP_YUNXIN_taolunzuUpdate"="[讨论组信息更新]";
+"APP_YUNXIN_groupUpdate"="[群信息更新]";
+"APP_YUNXIN_robotMessage"="[机器人消息]";
+
+
+//消息-会话界面
+"APP_YUNXIN_cloudMessageList"="云消息记录";
+"APP_YUNXIN_searchLocalMessageList"="搜索本地消息记录";
+"APP_YUNXIN_clearLocalMessageList"="清空本地消息记录";
+"APP_YUNXIN_isWriting"="正在输入…";
+"APP_YUNXIN_pleasChoose" = "请选择";
+"APP_YUNXIN_inputNote" = "输入提醒";
+"APP_YUNXIN_hasSendButNotReceive" = "消息已发送，但对方拒收";
+"APP_YUNXIN_recordError" = "录音失败";
+"APP_YUNXIN_recordTooShort" = "录音时间太短";
+"APP_YUNXIN_clearMessageListConfirm" = "确定清空聊天记录？";
+"APP_YUNXIN_sendToOthers"="转发";
+"APP_YUNXIN_operationBack" = "撤回";
+"APP_YUNXIN_transformToWords" = "转文字";
+"APP_YUNXIN_ChooseConversationType" = "选择会话类型";
+"APP_YUNXIN_ConversationTypePersonal" = "个人";
+"APP_YUNXIN_ConversationTypeGroup" = "群组";
+"APP_YUNXIN_CanBackAfter2mins" = "发送时间超过2分钟的消息，不能被撤回";
+"APP_YUNXIN_BackMessageFailed" = "消息撤回失败，请重试";
+"APP_YUNXIN_cannotCreateWithin2person"="无法发起，群人数少于2人";
+"APP_YUNXIN_cannotTalkToYourself" = "不能和自己通话哦";
+"APP_YUNXIN_pleaseCheckTheNet"="请检查网络";
+"APP_YUNXIN_hasSend" = "已发送";
+"APP_YUNXIN_sendToOthersConfirm" = "确认转发";
+"APP_YUNXIN_sendToOthersConfirmTo" ="确认转发给";
+"APP_YUNXIN_Contact_change"="切换";
+//消息-会话界面-聊天bar
+"APP_YUNXIN_Conversation_Album" = "相册";
+"APP_YUNXIN_Conversation_photograph" = "拍摄";
+"APP_YUNXIN_Conversation_location" = "位置";
+"APP_YUNXIN_Conversation_burnAfterRead" = "阅后即焚";
+"APP_YUNXIN_Conversation_InputMessage"="请输入消息";
+"APP_YUNXIN_Conversation_pressToTalk" = "按住说话";
+"APP_YUNXIN_Conversation_noLimitationOfMicrophone" = "没有麦克风权限";
+
+//消息-个人名片
+"APP_YUNXIN_PersonalCard_card"="个人名片";
+"APP_YUNXIN_PersonalCard_edit"="编辑";
+"APP_YUNXIN_PersonalCard_nickName"= "备注名";
+"APP_YUNXIN_PersonalCard_birthday"="生日";
+"APP_YUNXIN_PersonalCard_phone"="手机";
+"APP_YUNXIN_PersonalCard_email"="邮箱";
+"APP_YUNXIN_PersonalCard_sign"="签名";
+"APP_YUNXIN_PersonalCard_notification"="消息提醒";
+"APP_YUNXIN_PersonalCard_signnn" = "签名";
+"APP_YUNXIN_PersonalCard_remarkName" = "备注名";
+"APP_YUNXIN_PersonalCard_nickName"="昵称";
+
+"APP_YUNXIN_PersonalCard_talk"="聊天";
+"APP_YUNXIN_PersonalCard_delFriend"="删除好友";
+"APP_YUNXIN_PersonalCard_addFriend"="添加好友";
+"APP_YUNXIN_PersonalCard_takeToBlackListSuccess"="拉黑成功";
+"APP_YUNXIN_PersonalCard_takeToBlackListFailed"="拉黑失败";
+"APP_YUNXIN_PersonalCard_removeBlackListSuccess"="移除黑名单成功";
+"APP_YUNXIN_PersonalCard_removeBlackListFailed"="移除黑名单失败";
+"APP_YUNXIN_PersonalCard_pleasPass"="请求通过";
+"APP_YUNXIN_PersonalCard_addSuccess"="添加成功";
+"APP_YUNXIN_PersonalCard_requestSuccess"="请求成功";
+"APP_YUNXIN_PersonalCard_Addfailed"="添加失败";
+"APP_YUNXIN_PersonalCard_requestFailed"="请求失败";
+
+
+//设置
+"APP_YUNXIN_Setting"="设置";
+"APP_YUNXIN_messageNotifacation"="消息提醒";
+"APP_YUNXIN_notOpen"="未开启";
+"APP_YUNXIN_hasOpen"="已开启";
+"APP_YUNXIN_changeNotiSetting"="在iPhone的“设置- 通知中心”功能，找到应用程序“智微校”，可以更改智微校新消息提醒设置";
+"APP_YUNXIN_noDisturb"="免打扰";
+"APP_YUNXIN_about"="关于";
+"APP_YUNXIN_logout"="注销";
+"APP_YUNXIN_logoutAccount"="退出当前账号?";
+//设置-个人信息
+"APP_YUNXIN_PersonalInfo"="个人信息";
+"APP_YUNXIN_sex"="性别";
+"APP_YUNXIN_birthday"="生日";
+"APP_YUNXIN_notSet"="未设置";
+"APP_YUNXIN_phoneNum"="手机";
+"APP_YUNXIN_email"="邮箱";
+"APP_YUNXIN_Sign"="签名";
+"APP_YUNXIN_changePassword"="修改密码";
+"APP_YUNXIN_setHeadImage"="设置头像";
+"APP_YUNXIN_takePic"="拍照";
+"APP_YUNXIN_fromAlbum"="从相册";
+"APP_YUNXIN_setHeadImageSuccess"="设置头像成功";
+"APP_YUNXIN_setHeadImageFailure"="设置头像失败";
+"APP_YUNXIN_setHeadImageFailure_pleaseTryAgagin"="设置头像失败，请重试";
+"APP_YUNXIN_uploadHeadImageFailure_pleaseTryAgagin"="图片上传失败，请重试";
+"APP_YUNXIN_saveHeadImageFailure_pleaseTryAgagin"="图片保存失败，请重试";
+//设置-个人信息-性别设置
+"APP_YUNXIN_sexSet"="性别";
+"APP_YUNXIN_sexMan"="男";
+"APP_YUNXIN_sexWomen"="女";
+"APP_YUNXIN_sexOther"="其他";
+"APP_YUNXIN_sexSetSuccess"="性别设置成功";
+"APP_YUNXIN_sexSetFailed"="性别设置失败，请重试";
+//设置-个人信息-生日设置
+"APP_YUNXIN_birthdaySet"="选择出生日期";
+"APP_YUNXIN_birthdaySetSuccess"="生日设置成功";
+"APP_YUNXIN_birthdaySetFailed"="生日设置失败，请重试";
+//设置-个人信息-手机号码
+"APP_YUNXIN_phoneNumber"="手机号码";
+"APP_YUNXIN_phoneFinish"="完成";
+"APP_YUNXIN_phoneNumberTooLong"="手机号码过长";
+"APP_YUNXIN_phoneNumberSetSuccess"="手机设置成功";
+"APP_YUNXIN_phoneNumberSetFailed"="手机设置失败，请重试";
+//设置-个人信息-设置邮箱
+"APP_YUNXIN_emailSet"="设置邮箱";
+"APP_YUNXIN_emailFinish"="完成";
+"APP_YUNXIN_emailTooLong"="邮箱过长";
+"APP_YUNXIN_emailSetSuccess"="邮箱设置成功";
+"APP_YUNXIN_emailSetFailed"="邮箱设置失败，请重试";
+//设置-个人信息-设置签名
+"APP_YUNXIN_SignSet"="设置签名";
+"APP_YUNXIN_SignFinish"="完成";
+"APP_YUNXIN_SignTooLong"="签名过长";
+"APP_YUNXIN_SignSetSuccess"="签名设置成功";
+"APP_YUNXIN_SignSetFailed"="签名设置失败，请重试";
+
+"APP_YUNXIN_remarkNameSetTooLong"="备注名过长";
+"APP_YUNXIN_remarkNamesetSuccess"="备注名设置成功";
+"APP_YUNXIN_remarkNamesetFailed"="备注名设置失败，请重试";
+
+//设置-个人信息-修改密码
+"APP_YUNXIN_pw_change"="修改密码";
+"APP_YUNXIN_pw_submit"="提交";
+"APP_YUNXIN_pw_ori"="原密码";
+"APP_YUNXIN_pw_new"="新密码";
+"APP_YUNXIN_pw_confirm"="确认密码";
+"APP_YUNXIN_pw_part"="部分密码信息不完整";
+"APP_YUNXIN_pw_wrong"="旧密码错误";
+"APP_YUNXIN_pw_save"="保存中";
+"APP_YUNXIN_pw_changeSuccess"="修改成功";
+"APP_YUNXIN_pw_changeFailed"="修改失败";
+"APP_YUNXIN_pw_notSame"="两次输入密码不一致";
+"APP_YUNXIN_pw_6To12"="密码为6-12位";
+//设置-免打扰设置
+"APP_YUNXIN_disturb_setting"="免打扰设置";
+"APP_YUNXIN_disturbb"="免打扰";
+"APP_YUNXIN_disturb_from"="从";
+"APP_YUNXIN_disturb_to"="至";
+"APP_YUNXIN_disturb_notNotifacation"="在设定的时间段内智微校消息将不再提醒";
+"APP_YUNXIN_disturb_needSame"="结束时间不能与开始时间一致";
+"APP_YUNXIN_disturb_failed"="免打扰设置更新失败";
+//设置-关于
+"APP_YUNXIN_about_copyDownloadURL"="复制下载链接";
+"APP_YUNXIN_about_checkUpdate"="检查更新";
+"APP_YUNXIN_about_noUpdate"="暂无更新";
+"APP_YUNXIN_about_newVersion"="新版本更新";
+"APP_YUNXIN_about_nowVersion"="当前版本";
+
+//通讯录
+"APP_YUNXIN_Contact_AdressBook"="通讯录";
+"APP_YUNXIN_Contact_inputGroupName"="请输入群名称";
+"APP_YUNXIN_Contact_advGroup"="高级群";
+"APP_YUNXIN_Contact_inviteUjoinInTheGroup"="邀请你加入群组";
+"APP_YUNXIN_Contact_createFailure"="创建失败";
+"APP_YUNXIN_Contact_Contact"="联系人";
+"APP_YUNXIN_Contact_delFriend"="删除好友";
+"APP_YUNXIN_Contact_delFriendAnddelRelationship"="删除好友后，将同时解除双方的好友关系";
+"APP_YUNXIN_Contact_delSuccess"="删除成功";
+"APP_YUNXIN_Contact_delFailed"="删除失败";
+"APP_YUNXIN_Contact_group" = "群";
+
+//通讯录-验证消息
+"APP_YUNXIN_Contact_ajaxMessage"="验证消息";
+"APP_YUNXIN_Contact_loadMore" = "载入更多";
+"APP_YUNXIN_Contact_clear" = "清空";
+"APP_YUNXIN_Contact_agreeSuccess" = "同意成功";
+"APP_YUNXIN_Contact_serverError" = "网络问题,请重试";
+"APP_YUNXIN_Contact_acceptSuccess" = "接受成功";
+"APP_YUNXIN_Contact_groupNotExsit" = "群不存在";
+"APP_YUNXIN_Contact_ajaxSuccess" = "验证成功";
+"APP_YUNXIN_Contact_ajaxfailed" = "验证失败,请重试";
+"APP_YUNXIN_Contact_refuseSuccess" = "拒绝成功";
+"APP_YUNXIN_Contact_refuseFailed" = "拒绝失败,请重试";
+//通讯录-高级群
+"APP_YUNXIN_Contact_advGroup"="高级群";
+//通讯录-讨论组
+"APP_YUNXIN_Contact_taolunzu"="讨论组";
+//通讯录-黑名单
+"APP_YUNXIN_Contact_blackList"="黑名单";
+"APP_YUNXIN_Contact_blackList_notReceive" = "你不会接收到列表中联系人的任何消息";
+"APP_YUNXIN_Contact_blackList_operationSuccess" = "操作成功！";
+"APP_YUNXIN_Contact_blackList_operationFailed" = "操作失败！";
+//通讯录-我的电脑
+"APP_YUNXIN_Contact_MyComputer"="我的电脑";
+//通讯录-组织机构&班级
+"APP_YUNXIN_Contact_organization"="组织机构";
+"APP_YUNXIN_Contact_class"="班级";
+"APP_YUNXIN_Contact_theUserNotExist"="该用户不存在";
+"APP_YUNXIN_Contact_checkAccountRight"="请检查你输入的帐号是否正确";
+//通讯录-右上角操作-添加好友
+"APP_YUNXIN_Contact_chooseType"="选择操作";
+"APP_YUNXIN_Contact_AddFriend"="添加好友";
+"APP_YUNXIN_Contact_createAdvGroup"="创建高级群";
+"APP_YUNXIN_Contact_createTTaolunzu"="创建讨论组";
+"APP_YUNXIN_Contact_searchAdvGroup"="搜索高级群";
+"APP_YUNXIN_Contact_chooseContact"="选择联系人";
+"APP_YUNXIN_Contact_chooseContactUponLimit" = "选择超限";
+
+"APP_YUNXIN_Contact_chooseContactOften" = "添加常用联系人";
+"APP_YUNXIN_Contact_inputUserName"="请输入用户名";
+"APP_YUNXIN_Contact_theUserNotExist"="该用户不存在";
+"APP_YUNXIN_Contact_checkAccountRight"="请检查你输入的帐号是否正确";
+"APP_YUNXIN_Contact_inputRightAccount"="请输入有效的联系人信息";
+"APP_YUNXIN_Contact_searchWithoutContact"="未搜索到联系人";
+"APP_YUNXIN_Contact_inputContactAccount"="请输入联系人姓名";
+"APP_YUNXIN_Contact_searchGroupAndJoin"="搜索加入群组";
+//圈子
+"APP_Circle_xiaoyouquan"="校友圈";
+"APP_Circle_banjiqiangbao"="班级墙报";
+"APP_Circle_newState"="新动态";
+"APP_Circle_momentThinking"="这一刻的想法";
+"APP_Circle_send"="发送";
+"APP_Circle_chooseImageSource"="选择图片来源";
+"APP_Circle_fromCamera"="相机";
+"APP_Circle_FromAlbum"="相册";
+"APP_Circle_shareNewState"="分享您的新动态吧";
+"APP_Circle_shareSuccess"="分享成功😄";
+"APP_Circle_shareFailed"="分享失败😒";
+"APP_Circle_chooseClass"="请选择发送到的班级";
+"APP_Circle_sendTo"="发送到";
+"APP_Circle_deleteArea"="删除动态";
+"APP_Circle_deleteConfirm"="真的要删除这一条动态吗？";
+"APP_Circle_CancelZan"="取消赞";
+"APP_Circle_zan"="赞";
+"APP_Circle_pinglun"="评论";
+
+
+//登录
+"APP_Login_LoginStepCheck"="正在验证用户信息";
+"APP_Login_Logining"="正在登录";
+"APP_Login_ServerFailure"="连接通讯服务器失败";
+"APP_Login_ServerFailure2"="无法连接到服务器,请检查网络";
+"APP_Login_ServerSetting"="配置服务器地址";
+"APP_Login_Input_IP_Address"="请输入服务器地址";
+"APP_Login_LoginTimeOut"="您的用户信息已失效,请重新登录";
+"APP_Login_SchoolChoose"="学校选择";
+"APP_Login_ServerAddressAjax"="验证服务器地址中";
+"APP_Login_ServerIpAddressSetupSuccess"="配置服务器地址成功";
+"APP_Login_ServerIpAddressSetupFailure"="验证服务器地址失败";
+//找回密码
+"APP_LoginPW_findPasswordBack"="找回密码";
+"APP_LoginPW_SchoolName"="学        校";
+"APP_LoginPW_userName"= "用  户  名";
+"APP_LoginPW_PhoneNum"="手  机  号";
+"APP_LoginPW_ajaxNum"="验  证  码";
+"APP_LoginPW_Newpassword"="新  密  码";
+"APP_LoginPW_repeatPassword"="重复密码";
+
+"APP_LoginPW_InputTruePhoneNum"="请输入正确的手机号";
+"APP_LoginPW_GettingAjaxNum"="正在获取验证码";
+"APP_LoginPW_GettingAjaxNumSuccess"="验证码获取成功";
+"APP_LoginPW_serverError"="和服务器通讯故障";
+"APP_LoginPW_passWordNotSame"="新密码和重复密码不一致";
+"APP_LoginPW_isSubmiting"="正在提交请求";
+"APP_LoginPW_findPasswordBackSuccess"="密码找回成功";
+"APP_LoginPW_chooseSchool"="请选择学校";
+"APP_LoginPW_inputName"="请输入登录用户名";
+"APP_LoginPW_inputPhoneNum"="请输入手机号";
+"APP_LoginPW_inputAjaxNum"="请输入验证码";
+"APP_LoginPW_inputNewPassword"="请输入新密码";
+"APP_LoginPW_inputRepeatPassword"="请输入重复密码";
+"APP_LoginPW_getAjaxCode"="获取验证码";
+"APP_LoginPW_haisheng"="还剩";
+"APP_LoginPW_second"="秒";
+
+
+
+//作业
+"APP_MyHomeWork"="作业";
+"APP_MyHomeWork_Title"="我的作业";
+"APP_MyHomeWork_All"="全部";
+"APP_MyHomeWork_Submitted_until"="提交截止至";
+"APP_MyHomeWork_hasFinished"="已完成";
+"APP_MyHomeWork_checkMyHW"="查看我的作业";
+"APP_MyHomeWork_unFinished"="未完成";
+"APP_MyHomeWork_submitHW"="提交作业";
+"APP_MyHomeWork_HasExpired"="已过期";
+"APP_MyHomeWork_downloadFailed"="下载失败,附件可能不存在";
+"APP_MyHomeWork_CheckHW"="查看作业";
+"APP_MyHomeWork_HWNote"="作业备注";
+"APP_MyHomeWork_submitEmpty"="提交内容为空";
+"APP_MyHomeWork_summitSuccess"="上传成功";
+"APP_MyHomeWork_summitFailed"="上传失败";
+"APP_MyHomeWork_chooseSubject"="选择科目";
+"APP_MyHomeWork_Sunday"="星期日";
+"APP_MyHomeWork_Mon"="星期一";
+"APP_MyHomeWork_Tus"="星期二";
+"APP_MyHomeWork_wens"="星期三";
+"APP_MyHomeWork_Ths"="星期四";
+"APP_MyHomeWork_fri"="星期五";
+"APP_MyHomeWork_sat"="星期六";
+
+//成绩
+"APP_grade_ExamList" ="成绩单";
+"APP_grade_noExam" = "暂无考试";
+"APP_grade_noExamData" = "暂无成绩数据";
+"APP_grade_subject" ="科目";
+"APP_grade_score" ="分数";
+"APP_grade_classRank" ="班级排名";
+"APP_grade_gradeRank" ="年级排名";
+
+
+//通知
+"APP_note_title" ="成绩单";
+"APP_note_receiveBox" ="收件箱";
+"APP_note_unRead" ="未读";
+"APP_note_attention" ="关注";
+"APP_note_hasAttention" ="已关注";
+"APP_note_sendBox" ="发件箱";
+"APP_note_hasChoosen" ="已选择";
+"APP_note_sureToRead" ="确定将所有消息提醒设为已读吗";
+"APP_note_noAttention" ="取消关注";
+"APP_note_Edit" ="编辑";
+"APP_note_transfrom"="转自";
+"APP_note_pleaseWait"="请稍等";
+"APP_note_setAllRead"="已全部设为已读";
+"APP_note_operationFailed"="操作失败";
+"APP_note_multiRead"="多选";
+"APP_note_cantEditWithoutData"="暂无数据无法编辑";
+"APP_note_choose0"="已选择0";
+"APP_note_noDetail"="暂无详情";
+"APP_note_shifouyichu"="是否要移除这";
+"APP_note_tiaotongzhi"="条通知";
+"APP_note_tiaoyiyichu"="条已移除";
+"APP_note_hasChoosenReceiveMan"="已选接收人";
+"APP_note_ChooseReceiveMan"="选择接收人";
+"APP_note_nearbyContact"="最近联系人";
+"APP_note_tiaoyiquxiaoguanzhu"="条已取消关注";
+"APP_note_tiaoyiguanzhu"="条已关注";
+"APP_note_teacher"="教师";
+"APP_note_student"="学生";
+"APP_note_parent"="家长";
+"APP_note_customize"="自定义";
+"APP_note_takeToForward"="带原文转发";
+"APP_note_ignoreToForward"="忽略原文转发";
+"APP_note_forward"="转发";
+"APP_note_Delete"="删除";
+"APP_note_Me"="我";
+"APP_note_stastic"="统计";
+"APP_note_detail"="详情";
+"APP_note_approve"="显示";
+"APP_note_hidden"="隐藏";
+"APP_note_sendTime"="发送时间";
+"APP_note_sendPerson"="发送人";
+"APP_note_gefujian"="个附件";
+"APP_note_tokenFalse"="配置信息失效,请重新登录";
+"APP_note_delNotifacation"="删除该通知";
+"APP_note_hasDelete"="已删除";
+"APP_note_hasRemoveAttention"="已移除关注";
+"APP_note_sendNotice"="发通知";
+"APP_note_receiver"="接收人:";
+"APP_note_theme"="主题:";
+"APP_note_pic"="图片";
+"APP_note_editOriAritrl"="编辑原文";
+"APP_note_inputNotice"="请输入通知内容";
+"APP_note_mayLose"="编辑原文可能会使部分格式或内容丢失,确认继续吗?";
+"APP_note_noTheme"="(无主题)";
+"APP_note_noThemeTosend"="未填写主题，确认继续发送吗？";
+"APP_note_noChooseReceiver"="未选接收人";
+"APP_note_noticeSending"="消息发送中";
+"APP_note_SendSuccess"="发送成功";
+"APP_note_haisheng"="还剩";
+"APP_note_readStastic"="阅读统计";
+"APP_note_copyList"="复制名单";
+"APP_note_hasReadPerson"="已读人员";
+"APP_note_noReadPerson"="未读人员";
+"APP_note_noReadPersonCopy"="未读人员已剪切到剪切板";
+"APP_note_allSendto"="共发送给";
+"APP_note_person"="人";
+"APP_note_giveUpEdit"="放弃当前编辑";
+"APP_note_giveUpEditNote"="退出后当前编辑内容不能保存,确认退出吗?";
+
+//报修
+"APP_repair_Title" = "报修";
+"APP_repair_myMaintenance"="我的维修";
+"APP_repair_getRepairData" = "正在获取报修数据";
+"APP_repair_noRepairTip" = "暂无报修须知";
+"APP_repair_getNewestRepairDataFailed" = "获取最新报修数据失败";
+"APP_repair_IneedRepari" = "我要报修";
+"APP_repair_notAcceptDan" = "未接单";
+"APP_repair_repairing" = "维修中";
+"APP_repair_waitToEvaluation" = "待评价";
+"APP_repair_Deal" = "待处理";
+"APP_repair_hasSendDan" = "已派单";
+"APP_repair_myNeedRepair" = "我的报修";
+"APP_repair_viewALlNeedRepairList" = "查看全部报修单";
+"APP_repair_repairManagement" = "报修管理";
+"APP_repair_viewAllweixiudan" = "查看全部维修单";
+"APP_repair_repairNeedKnow" = "报修须知";
+"APP_repair_getRepairsubmitListfailed" = "获取报修单数据失败";
+"APP_repair_getRepairServiceListfailed" = "获取维修过程数据失败";
+"APP_repair_repairSubmitDetail" = "报修单详情";
+"APP_repair_repairStepRecord" = "维修过程记录";
+"APP_repair_daishenpifeiyong" = "待审批费用:";
+"APP_repair_repairFeedbackEvaluation" = "报修反馈评价";
+"APP_repair_feedbackNotFull" = "部分评分不完整,请重新评分";
+"APP_repair_submitingFeedback" = "正在提交反馈评价";
+"APP_repair_EvaluationSuccess" = "评价成功";
+"APP_repair_EvaluationFailed" = "评价提交失败";
+"APP_repair_chooseInput" = "选填";
+"APP_repair_Evaluation" = "评价";
+"APP_repair_sureToDelTheRepairSubmit" = "确认删除此报修单吗";
+"APP_repair_delRepairSubmitSuccess" = "删除报修单成功";
+"APP_repair_delRepairSubmitFailed" = "删除报修单失败";
+"APP_repair_myRepairSubmit" = "我的报修单";
+"APP_repair_repairServiceFeedback" = "维修反馈";
+"APP_repair_submitFeedBack" = "提交反馈";
+"APP_repair_peijianzongjine" = "配件总金额(元)";
+"APP_repair_somePartDetailNotInput" = "存在配件明细项未填写!";
+"APP_repair_hasFeedback" = "已反馈";
+"APP_repair_myRepair" = "我的维修";
+"APP_repair_deviceSep" = "设备分类";
+"APP_repair_getDeviceList" = "获取设备列表中";
+"APP_repair_getDeviceListFailed" ="获取设备列表失败";
+"APP_repair_repairSubmitList" = "报修单";
+"APP_repair_contactPhone" = "联系电话";
+"APP_repair_repairSubmitPerson" = "报修人";
+"APP_repair_plzInpustPhone" = "请输入电话号码";
+"APP_repair_addErrorDesArea" = "请添加故障描述";
+"APP_repair_chooseErrorArea" = "选择故障地点";
+"APP_repair_zanWeiKaiTong" = "该功能暂未开通";
+"APP_repair_repairServiceGroup" = "维修组";
+"APP_repair_cantTalkToSelf" = "您不能和自己聊天";
+"APP_repair_getAccountFailed" = "获取通讯账号失败,请稍后再试";
+"APP_repair_thePhoneNumIsEmpty" = "该手机号码为空号";
+"APP_repair_moneyCheck" = "费用审批";
+"APP_repair_reviewHasSubmited" = "审核已提交";
+"APP_repair_gettingServicerList" = "正在获取维修人员列表";
+"APP_repair_gettingServicerListFailed" = "获取维修人员列表失败";
+"APP_repair_orderServicer" = "指定维修人员";
+"APP_repair_submiting" = "提交中...";
+"APP_repair_orderServicerSuccess" = "指定维修人员成功";
+"APP_repair_orderServicerFailed" = "指定维修人员失败";
+"APP_repair_addPartDetail" = "添加配件明细";
+"APP_repair_name" = "姓名";
+"APP_repair_likeServiceCount" = "类似维修数";
+"APP_repair_nowServiceing" = "当前维修数";
+"APP_repair_mustInput" = "必填";
+"APP_repair_orders" = "接单";
+
+"APP_repair_ordersTips" = "接单后其他人不能再接此单,您确认接单吗?";
+
+
+//资产
+"APP_assets_title" = "资产";
+"APP_assets_management"="资产管理";
+"APP_assets_myAsset"="我的资产";
+"APP_assets_ReviewApply" ="申请审核";
+"APP_assets_assetsApply" ="资产申请";
+"APP_assets_assetsIssue" ="发放资产";
+"APP_assets_assetSign" = "上传签字";
+"APP_assets_assetsReSign"="后续补签";
+"APP_assets_ReviewSubmission" ="审核提交中";
+"APP_assets_ReviewSuccess" ="审核成功";
+"APP_assets_ReviewFailed" ="审核提交失败,可能是网络问题";
+"APP_assets_All" ="全部";
+"APP_assets_notReview" ="未审核";
+"APP_assets_notPass" ="未通过";
+"APP_assets_hasPass" ="已通过";
+"APP_assets_hasIssue" ="已发放";
+"APP_assets_mine" ="我的";
+"APP_assets_waitReview" ="待审核";
+"APP_assets_waitIssue" ="待发放";
+"APP_assets_outWarehouse" ="出库";
+"APP_assets_stastic" ="统计";
+"APP_assets_issue" ="发放";
+"APP_assets_Review" ="审核";
+"APP_assets_chooseApplyDate" ="请选择申请日期";
+"APP_assets_chooseOrg" ="请选择申请部门";
+"APP_assets_chooseAssetType" ="请选择资产类型";
+"APP_assets_chooseSchool" ="请选择被申请校区";
+"APP_assets_chooseApply" ="请选择审核人";
+"APP_assets_submitApplication" ="正在提交申请";
+"APP_assets_applySuccess" ="申请资产成功";
+"APP_assets_applyFailed" ="申请资产失败";
+"APP_assets_chooseBackError" ="选择返程时间有误已默认当前日期";
+"APP_assets_applyyy" ="申请";
+"APP_assets_assetTyoe" ="资产类别";
+"APP_assets_applyDate" ="申请日期";
+"APP_assets_USER" ="使用人";
+"APP_assets_applyORG" ="申请部门";
+"APP_assets_appliedSchool" ="被申请校区";
+"APP_assets_applyUSAGE" ="用途说明";
+"APP_assets_applySetting" ="配置说明";
+"APP_assets_applySTatis" ="状态";
+"APP_assets_applyCheckNote" ="审核说明";
+"APP_assets_assetCard"="资产卡片";
+"APP_assets_assetcode"="资产编码";
+"APP_assets_assetIssueing"="发放资产中";
+"APP_assets_assetIssueSuccess"="发放成功";
+"APP_assets_assetIssueFailed"="发放失败";
+"APP_assets_RESIGN"="补签";
+"APP_assets_RESIGNForbidden"="补签模式下禁用";
+"APP_assets_wiatToIssueAsset"="待发放资产";
+"APP_assets_borrowDate"="借用日期:";
+"APP_assets_Remove"="移除";
+"APP_assets_searchAsset" ="查找资产";
+"APP_assets_chooseSearchWays" ="请选择查找方式";
+"APP_assets_waysSearch" ="条件查找";
+"APP_assets_scanSearch" ="扫码查找";
+"APP_assets_notAddWaitAsset" ="未添加待发放资产";
+"APP_assets_removeSuccess" ="移除成功";
+"APP_assets_scanToIn" ="扫码进入";
+"APP_assets_warning" ="警告";
+"APP_assets_noUseScanCode" ="无效的二维码";
+"APP_assets_" ="选择资产类型";
+"APP_assets_ApplicationList" ="申请记录";
+"APP_assets_hasReturn" ="已归还";
+"APP_assets_noMore" ="暂无更多";
+"APP_assets_hasIssuedAsset" ="已发放资产";
+"APP_assets_noIssueData" ="暂无发放数据";
+"APP_assets_IssueDetail" ="发放详情";
+"APP_assets_returnDetail" ="归还详情";
+"APP_assets_getAssetData" ="获取资产数据中";
+"APP_assets_searchWithOrder" ="请按照顺序进行条件查找";
+"APP_assets_updateAssets" ="更新资产数据中";
+"APP_assets_searchByCondition" ="按条件查找";
+"APP_assets_getStasticData" ="获取统计数据中";
+"APP_assets_cantFindSuitAsset" ="查询不到对应资产";
+"APP_assets_searchResult" ="检索结果";
+"APP_assets_Add" ="添加";
+"APP_assets_AddtoWaitIssue" ="已添加到待发放列表";
+"APP_assets_removeFromWaitIssue" ="已从待发放列表中移除";
+"APP_assets_startDate" ="起始日期";
+"APP_assets_endDate" ="结束日期";
+"APP_assets_IWantToApplyAsset" ="我要申请资产";
+"APP_assets_dangqianninyou" ="当前您有";
+"APP_assets_jishibuqian" ="个需要补签的发放记录,请及时到管理员处补签";
+"APP_assets_netError" ="网络异常请检查网络";
+"APP_assets_notice" ="资产提醒";
+"APP_assets_nowNo"= "暂无";
+"APP_assets_SignOrNot" ="是否签字";
+"APP_assets_assetName" ="资产名称";
+"APP_assets_code" ="资产编码";
+"APP_assets_" ="借用日期:";
+"APP_assets_guige" ="型号规格";
+"APP_assets_returnPerson" ="归还人";
+"APP_assets_returnOrg" ="归还部门";
+"APP_assets_dealPerson" ="经办人";
+"APP_assets_returnDate" ="归还日期";
+
+
+//库房管理(易耗品管理)
+"APP_wareHouse_title" ="易耗品管理";
+"APP_wareHouse_noticeNoti" ="通知提醒";
+"APP_wareHouse_IwantApply" ="我要申领物品";
+"APP_wareHouse_fenshenhetongguo" ="份申请审核通过";
+"APP_wareHouse_nowGettingData" ="正在获取数据";
+"APP_wareHouse_applyIssue" ="申领发放";
+"APP_wareHouse_applyList" ="申请单";
+"APP_wareHouse_review" ="审核";
+"APP_wareHouse_submitReview" ="正在提交审核";
+"APP_wareHouse_ReviewSuccess" ="审核提交成功";
+"APP_wareHouse_ReviewFailed" ="审核提交失败";
+"APP_wareHouse_chooseOutWH" = "选择出库仓库";
+"APP_wareHouse_chooseType" = "查找";
+"APP_wareHouse_pickerTitle" ="标题";
+"APP_wareHouse_uploadSIgn" ="上传签字";
+"APP_wareHouse_houxuBuqian" ="后续补签";
+"APP_wareHouse_chooseIssueWays" ="请选择发放方式";
+"APP_wareHouse_write" ="手写";
+"APP_wareHouse_getType" ="领用类型";
+"APP_wareHouse_chooseApplyPerson" ="选择申领人";
+"APP_wareHouse_addDate" ="添加日期";
+"APP_wareHouse_submitFailed" ="提交失败";
+"APP_wareHouse_submitSuccess" = "提交成功";
+"APP_wareHouse_submiting" ="正在提交";
+"APP_wareHouse_plzChooseWH" ="请选择仓库";
+"APP_wareHouse_plzChooseUser" ="请选择领用人";
+"APP_wareHouse_plzAddThings" ="请添加物品" ;
+"APP_wareHouse_applyThingsList" ="申领物品清单";
+"APP_wareHouse_clickToChoose" ="点击选择";
+"APP_wareHouse_chooseWHFirst" ="请先选择出库仓库";
+"APP_wareHouse_dangqianzhongliangwei" ="当前仓库该物品数量为";
+"APP_wareHouse_yichaochu" ="已超出!";
+"APP_wareHouse_goodsDetail" ="物品详情";
+"APP_wareHouse_goodsSep" ="物品分类";
+"APP_wareHouse_applyDetail" ="申请详情";
+"APP_wareHouse_checkSign" ="[ 查看签字 ]";
+"APP_wareHouse_unSign" ="[ 未签字 ]";
+"APP_wareHouse_outList" ="出库单";
+"APP_wareHouse_searching" ="正在搜索中";
+"APP_wareHouse_searchNobodyData" ="未搜索到该用户的数据";
+"APP_wareHouse_searchError" ="搜索失败,可能网络问题";
+"APP_wareHouse_plzInputUserName" ="请输入用户名";
+"APP_wareHouse_plzInputKeyWords" ="请输入搜索关键字";
+"APP_wareHouse_search" ="搜索";
+"APP_wareHouse_reSignSuccess" ="补签成功";
+"APP_wareHouse_reSignFailed" ="补签失败";
+"APP_wareHouse_part" ="部门";
+"APP_wareHouse_zongwu" ="总务";
+"APP_wareHouse_applyREview" ="申领审核";
+"APP_wareHouse_applyGetList" ="申领单";
+"APP_wareHouse_codeToast" ="请输入申领单号,建议格式为时间+编号,如20170426001这种";
+"APP_wareHouse_plzChooseGoods" ="请选择商品";
+"APP_wareHouse_applySubmitSuccess" ="申请提交成功";
+"APP_wareHouse_applySubmitFailed" ="申请提交失败 !";
+"APP_wareHouse_cantGetCheckerNow" ="暂时无法获取审核人";
+"APP_wareHouse_partChecker" ="部门审核人";
+"APP_wareHouse_applyOrg" ="申领部门";
+"APP_wareHouse_MyApplication" ="我的申领";
+"APP_wareHouse_goodsStastic" ="物品统计";
+"APP_wareHouse_inWHDetail" ="入库详情";
+"APP_wareHouse_outWHDetail" ="出库详情";
+"APP_wareHouse_whDetail" ="库存详情";
+"APP_wareHouse_applyGoodsList" ="   申领物品列表";
+"APP_wareHouse_goodsName" ="物品名称";
+"APP_wareHouse_count" ="数量";
+"APP_wareHouse_price" ="金额";
+"APP_wareHouse_schoolArea" ="校区";
+"APP_wareHouse_WH" ="仓库";
+"APP_wareHouse_remianCount" ="剩余数量";
+"APP_wareHouse_name" = "名称";
+"APP_wareHouse_remainNow" ="当前库存";
+"APP_wareHouse_inWHCount" ="入库数量";
+"APP_wareHouse_outWHCount" ="出库数量";
+"APP_wareHouse_notIssue" ="未发放";
+"APP_wareHouse_partNotCheck" ="部门未审核";
+"APP_wareHouse_ZWNotCheck" ="总务未审核";
+"APP_wareHouse_ZWPassCheck" ="总务审核通过";
+"APP_wareHouse_hasSign" ="已签字";
+"APP_wareHouse_notSign" ="未签字";
+
+
+//"APP_wareHouse_" =
+//"APP_wareHouse_" =
+//"APP_wareHouse_" =
+//"APP_wareHouse_" =
+//"APP_wareHouse_" =
+
+
+

@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "今天"; ObjectID = "2cM-8Z-ilu"; */
+"2cM-8Z-ilu.text" = "Today";
+
+/* Class = "UILabel"; text = "TestTeT"; ObjectID = "CDQ-N3-NKq"; */
+"CDQ-N3-NKq.text" = "TestTeT";
+
+/* Class = "UILabel"; text = "25"; ObjectID = "CNm-ST-0I0"; */
+"CNm-ST-0I0.text" = "25";
+
+/* Class = "UILabel"; text = "未完成"; ObjectID = "F73-9S-sQf"; */
+"F73-9S-sQf.text" = "undone";
+
+/* Class = "UILabel"; text = "提交截止至:"; ObjectID = "UB4-kq-mnZ"; */
+"UB4-kq-mnZ.text" = "Submitted until:";
+
+/* Class = "UILabel"; text = "test"; ObjectID = "Um1-at-GuB"; */
+"Um1-at-GuB.text" = "test";
+
+/* Class = "UILabel"; text = "信息技术"; ObjectID = "st6-0y-KXi"; */
+"st6-0y-KXi.text" = "信息技术";

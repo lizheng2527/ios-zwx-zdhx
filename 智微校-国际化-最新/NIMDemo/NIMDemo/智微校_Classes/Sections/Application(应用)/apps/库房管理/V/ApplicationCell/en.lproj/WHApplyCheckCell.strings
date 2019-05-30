@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "行政部"; ObjectID = "0Hz-6d-nch"; */
+"0Hz-6d-nch.text" = "Administration department";
+
+/* Class = "UILabel"; text = "申请日期:"; ObjectID = "3yf-7H-bdB"; */
+"3yf-7H-bdB.text" = "Date of Application:";
+
+/* Class = "UILabel"; text = "部门未审核"; ObjectID = "BcX-hH-8iI"; */
+"BcX-hH-8iI.text" = "Department not reviewed";
+
+/* Class = "UILabel"; text = "申领部门:"; ObjectID = "G2c-Fk-vPe"; */
+"G2c-Fk-vPe.text" = "Claim department:";
+
+/* Class = "UILabel"; text = "审 核 人:"; ObjectID = "GCh-Ck-0Vf"; */
+"GCh-Ck-0Vf.text" = "Auditor:";
+
+/* Class = "UIButton"; normalTitle = "查看"; ObjectID = "IbA-3j-eeW"; */
+"IbA-3j-eeW.normalTitle" = "View";
+
+/* Class = "UILabel"; text = "2016-12-20"; ObjectID = "Mdo-Gd-x0r"; */
+"Mdo-Gd-x0r.text" = "2016-12-20";
+
+/* Class = "UILabel"; text = "审核状态:"; ObjectID = "S4d-C8-lOB"; */
+"S4d-C8-lOB.text" = "Approval Status:";
+
+/* Class = "UILabel"; text = "申领单号:"; ObjectID = "Tft-et-0eF"; */
+"Tft-et-0eF.text" = "Claim number:";
+
+/* Class = "UILabel"; text = "201666666"; ObjectID = "V3J-gT-XF7"; */
+"V3J-gT-XF7.text" = "201666666";
+
+/* Class = "UILabel"; text = "李玲玲"; ObjectID = "n9X-YN-9Cd"; */
+"n9X-YN-9Cd.text" = "name";
+
+/* Class = "UIButton"; normalTitle = "审核"; ObjectID = "xJX-GF-wQE"; */
+"xJX-GF-wQE.normalTitle" = "Review";

@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "作业名称："; ObjectID = "AEa-L5-6qi"; */
+"AEa-L5-6qi.text" = "Homework name：";
+
+/* Class = "UILabel"; text = "学科："; ObjectID = "GuZ-oj-NRA"; */
+"GuZ-oj-NRA.text" = "Subject：";
+
+/* Class = "UILabel"; text = "提交截止至："; ObjectID = "X0L-I0-724"; */
+"X0L-I0-724.text" = "Submitted until：";
+
+/* Class = "UIButton"; normalTitle = "提交作业"; ObjectID = "cwb-L0-YrT"; */
+"cwb-L0-YrT.normalTitle" = "Submit homework";
+
+/* Class = "UILabel"; text = "作业对象："; ObjectID = "t6L-yY-KG8"; */
+"t6L-yY-KG8.text" = "Homework object：";

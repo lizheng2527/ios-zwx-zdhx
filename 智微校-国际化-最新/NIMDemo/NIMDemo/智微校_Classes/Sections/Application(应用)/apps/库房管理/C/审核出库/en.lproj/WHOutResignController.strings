@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "申领人:"; ObjectID = "LhJ-Ay-CUS"; */
+"LhJ-Ay-CUS.text" = "Claimant:";
+
+/* Class = "UILabel"; text = "    已发放物品列表"; ObjectID = "nY1-ef-Vvf"; */
+"nY1-ef-Vvf.text" = "    List of issued items";
+
+/* Class = "UILabel"; text = "发放时间:"; ObjectID = "tkM-Rv-bEQ"; */
+"tkM-Rv-bEQ.text" = "Release time:";

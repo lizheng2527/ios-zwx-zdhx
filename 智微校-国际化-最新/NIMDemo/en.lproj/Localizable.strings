@@ -1,0 +1,867 @@
+/* 
+  Localizable.strings
+  NIM
+
+  Created by 中电和讯 on 2018/8/31.
+  Copyright © 2018年 Netease. All rights reserved.
+*/
+
+
+"APP_Main_TabBarMessage"="Message";
+"APP_Main_TabBarContacter"="Contacts";
+"APP_Main_TabBarApplication"="Application";
+"APP_Main_TabBarCircle"="Circle";
+
+"APP_General_Confirm"="confirm";
+"APP_General_Cancel"="cancel";
+"APP_General_Prompt"="prompt";
+"APP_General_Submit"="submit";
+"APP_General_Submit_Success"="Submitted successfully";
+"APP_General_Submit_Failure"="Submission Failed";
+"APP_General_wu"="no";
+
+"APP_General_Send"="send";
+"APP_General_openCamera"="Please go to -> [Settings - Privacy - Camera - Zhiwei School] Turn on the access switch";
+"APP_General_cantFindCamera"="Your camera is not detected";
+"APP_General_GettingData"="Getting data...";
+"APP_General_noData"="No data";
+"APP_General_noMoreData"="No more data yet...";
+"APP_General_isNewestData"="Already the latest data";
+"APP_General_serverFailure"="Failed to get data";
+"APP_General_isSearching"="searching...";
+"APP_General_notAnymore"="No more";
+"APP_General_onLine"="OnLine";
+"APP_General_offLine"="OffLine";
+"APP_General_copppy"="copy";
+"APP_General_mobileVersion"="mobile";
+"APP_General_computerVersion"="PC";
+"APP_General_webVersion"="web";
+
+"APP_General_scanCodeToLogin"="Scan the QRcode to log in Web Zhiwei School";
+"APP_General_OpenLigght"="Turn on the flash";
+"APP_General_closeLigght"="Turn off the flash";
+"APP_General_sacnAndScan"="Scan QR code";
+
+//临时补充
+"APP_YUNXIN_nowUsingKnow"="Using Zhiwei School";
+"APP_YUNXIN_nowUsingBan"="Version";
+"APP_YUNXIN_nowUsingUnKnow"="Using unknown version of Zhiwei School";
+"APP_YUNXIN_nowUsingDUODUAN" = "Multi-level login management";
+"APP_YUNXIN_unknowTimeCreate"="Created at unknown time";
+"APP_YUNXIN_createYU"="at";
+"APP_YUNXIN_Create"="create";
+"APP_YUNXIN_UnotInGroup"="You are no longer in the group";
+"APP_YUNXIN_inviteJoinFriendFailed"="Invite friends to fail";
+"APP_YUNXIN_groupMember"="Group member";
+"APP_YUNXIN_groupName"="Group Name";
+"APP_YUNXIN_groupNickName"="Group nickname";
+"APP_YUNXIN_changeGroupNickName" = "Modify group nickname";
+"APP_YUNXIN_GroupDes"="Group introduction";
+"APP_YUNXIN_tapInputGroupDes"="Click to fill out the group introduction";
+"APP_YUNXIN_tapInputGroupNote"="Click to fill out the group announcement";
+"APP_YUNXIN_GroupNote"="Group announcement";
+"APP_YUNXIN_createGroupNote"="New group announcement";
+"APP_YUNXIN_outAdvGroup"="Exit the advanced group";
+"APP_YUNXIN_disBandGroupTalk"="Dissolve group chat";
+"APP_YUNXIN_indentifyAjax"="Authentication";
+"APP_YUNXIN_inviteOtherLimit"="Invite others permission";
+"APP_YUNXIN_changeGroupInfooo"="Modify group introduction";
+"APP_YUNXIN_sureToOutGroupTalk"="Confirm to leave the group chat?";
+"APP_YUNXIN_sureToDisbandGroupTalk"="Confirm dissolution group chat?";
+"APP_YUNXIN_changelimitWays"="Change verification method";
+"APP_YUNXIN_limitAllPerson"= "Allow anyone";
+"APP_YUNXIN_refuseAllPerson"="Reject anyone";
+"APP_YUNXIN_groupInviteJoin"="Invite others into the group";
+"APP_YUNXIN_groupAdminInvite"="Administrator invitation";
+"APP_YUNXIN_groupNormalInvite"="Everyone invites";
+"APP_YUNXIN_UpdategroupInfoChangeLiimt"="Updated group data modification permissions";
+"APP_YUNXIN_groupInfoChangeLiimt"="Group data modification permission";
+"APP_YUNXIN_groupInfoAdminChange"="Administrator modification";
+"APP_YUNXIN_groupInfoAllChange"="Everyone modified";
+"APP_YUNXIN_invitedpersonAjax"="Invitee authentication";
+"APP_YUNXIN_NeedYanzheng"= "Need to verify";
+"APP_YUNXIN_notNeedYanzheng"="No verification required";
+"APP_YUNXIN_groupAdmin"="administrator";
+"APP_YUNXIN_groupNormalMember"="Ordinary member";
+"APP_YUNXIN_groupOwner"="Group owner";
+"APP_YUNXIN_AllofPerson"="Everyone";
+"APP_YUNXIN_unKnowLimit"="Unknown permission";
+"APP_YUNXIN_unKnow"="Unknown";
+"APP_YUNXIN_groupInviteSuccess"="Invitation success";
+"APP_YUNXIN_groupInviteFailed"="Invitation failed";
+"APP_YUNXIN_removeFromGroup"= "Remove the group";
+"APP_YUNXIN_talkInfo"= "Chat information";
+"APP_YUNXIN_creatTalkGroup"="Create discussion group";
+"APP_YUNXIN_creatTalkGroupFailed"="Create discussion group failed";
+
+"APP_YUNXIN_hasRead" = "Have read";
+"APP_YUNXIN_chatRecord"="Chat record";
+"APP_YUNXIN_invite"="invite";
+
+
+"APP_YUNXIN_haveAgree"="approved";
+"APP_YUNXIN_haveRefuse"="rejected";
+//======================
+"APP_YUNXIN_disGroupName"="Discussion group name";
+"APP_YUNXIN_outDisGroup"="Exit the discussion group";
+"APP_YUNXIN_getDisGroupMemberFailed"="Discussion group member failed to get";
+"APP_YUNXIN_UoutDisGroup"="You are no longer in the discussion group";
+"APP_YUNXIN_changedisGroupName"="Modify the discussion group name";
+"APP_YUNXIN_sureOutdisGroup"="Confirm to leave the discussion group?";
+"APP_YUNXIN_invitejoindisGroup"="Invite you to join the discussion group";
+"APP_YUNXIN_invitejoindisGroupSuccess"="Invitation is successful, waiting for verification";
+"APP_YUNXIN_PlzOperation"="Please operate";
+"APP_YUNXIN_zhuanrangGroup"="Transfer group";
+"APP_YUNXIN_zhuanrangGroupOut"="Transfer group and quit";
+"APP_YUNXIN_setGroupImage"="Set group avatar";
+"APP_YUNXIN_setGroupName"="Set the group name";
+"APP_YUNXIN_adminOp"="Administrator operation";
+"APP_YUNXIN_adminOpCancel"="Cancel administrator";
+"APP_YUNXIN_adminOpSet"="Set as administrator";
+"APP_YUNXIN_tiSuccess"="Kicking success";
+"APP_YUNXIN_tiFailed"="Kicking people failed";
+"APP_YUNXIN_CreateNew"="create";
+"APP_YUNXIN_tranToSuccess"="Successful transfer";
+"APP_YUNXIN_joinIn"="Join";
+"APP_YUNXIN_joinIngroupNum"="Join group";
+"APP_YUNXIN_groupNum"="Group number";
+"APP_YUNXIN_groupCantjoinIn" = "The group can't apply to join";
+"APP_YUNXIN_inputAjaxInfo"="Successful application, waiting for verification...";
+"APP_YUNXIN_applySuccessWaitAjax"="Successful application, waiting for verification";
+"APP_YUNXIN_hasInGroup"="already in the group";
+"APP_YUNXIN_applyGroupFailed"="Group application failed";
+
+"APP_YUNXIN_yesTerday"="yesterday ";
+"APP_YUNXIN_qiantian"="The day before yesterday ";
+"APP_YUNXIN_midnight"="midnight";
+"APP_YUNXIN_morning"="morning";
+"APP_YUNXIN_afternoon"="afternoon";
+"APP_YUNXIN_evening"="evening";
+
+"APP_YUNXIN_tip_bcakMessage"="withdrew a message";
+"APP_YUNXIN_tip_Manglu"="busy";
+"APP_YUNXIN_tip_goAway"="go away";
+"APP_YUNXIN_tip_autoLoginFailed"="Automatic login failed";
+"APP_YUNXIN_tip_autoLoginFailedWIthNetCheck"="The number of automatic login errors is exceeded. Please check the network and try again.";
+"APP_YUNXIN_tip_pwError"="wrong password";
+"APP_YUNXIN_tip_otherLogining"="Currently other devices are logged in, please log in using manual mode.";
+
+"APP_YUNXIN_tip_jiechuJinYan"="Lift all bans";
+"APP_YUNXIN_tip_jinYanButAdmin"="All banned, the administrator can speak";
+"APP_YUNXIN_tip_updateUserInfo"="Updated my personal information";
+"APP_YUNXIN_tip_linshiJInyan"="Dismissed by the administrator";
+
+"APP_YUNXIN_tip_beiJInyan"="Sent by the administrator";
+"APP_YUNXIN_tip_UbeiLinshiJInyan"="You have been temporarily banned";
+"APP_YUNXIN_tip_UbeiJInyan"="You have been banned";
+"APP_YUNXIN_tip_chatRomU"="U";
+
+"APP_YUNXIN_tip_unknowSysMessage"="Unknown system message";
+"APP_YUNXIN_tip_JInyan"="Banned" ;
+"APP_YUNXIN_tip_jiechuDanrenJInyan"="Release the ban";
+
+"APP_YUNXIN_tip_Be"="are";
+"APP_YUNXIN_tip_zhuanyiAdminTo"="transferred the identity of the group owner";
+"APP_YUNXIN_tip_addToAdmin"="was added as a group administrator";
+"APP_YUNXIN_tip_removeAdmin"="group administrator status revoked";
+"APP_YUNXIN_tip_deyaoqing"="invitation into the group";
+"APP_YUNXIN_tip_accept"="accept ";
+"APP_YUNXIN_tip_gengxinle"="updated";
+"APP_YUNXIN_tip_laikaile"="left";
+"APP_YUNXIN_tip_jinrule"="got inside";
+"APP_YUNXIN_tip_tongguole"="passed";
+"APP_YUNXIN_tip_jielanle"="disbanded";
+"APP_YUNXIN_tip_yichule"="moved out";
+"APP_YUNXIN_tip_gengxinleInviteLimit"="updated invitation to others";
+"APP_YUNXIN_tip_gengxinleBeiInviteLimit"="updated invitee authentication permissions";
+"APP_YUNXIN_tip_setAllJInYan"="set the group banned";
+"APP_YUNXIN_tip_cancelAllJInYan"="cancel all bans";
+"APP_YUNXIN_tip_info"="information";
+"APP_YUNXIN_tip_invitation"="Application";
+"APP_YUNXIN_tip_name"="name";
+"APP_YUNXIN_tip_des"="Introduction";
+"APP_YUNXIN_tip_note"="announcement";
+"APP_YUNXIN_tip_ajaxWays"="ways of identifying";
+"APP_YUNXIN_tip_headImage"="Avatar";
+"APP_YUNXIN_tip_U"="you ";
+"APP_YUNXIN_tip_duifang"="other side ";
+
+"APP_YUNXIN_tip_hasAddFried"="Added you as a friend";
+"APP_YUNXIN_tip_requestAddFriend"="Request to add you as a friend";
+"APP_YUNXIN_tip_passFriend"="Passed your friend request";
+"APP_YUNXIN_tip_refuseFriend"="Refused your friend request";
+"APP_YUNXIN_tip_unknowMessageRequest"="Unknown request";
+"APP_YUNXIN_tip_applyUJoin"="apply to join the group";
+"APP_YUNXIN_tip_refuseUjoin"="refuse you to join";
+"APP_YUNXIN_tip_inviteUjoin"="Invite you to join";
+"APP_YUNXIN_tip_refuseGroup"="refused the group";
+"APP_YUNXIN_tip_invitationnn"="Invitation";
+
+"APP_YUNXIN_tip_notiALL"="Remind all messages";
+"APP_YUNXIN_tip_notiAdmin"="Remind only administrator messages";
+"APP_YUNXIN_tip_notiNothing"="Do not remind any message";
+
+
+
+//消息-会话列表
+"APP_YUNXIN_NoConversation"="Haven't had a conversation yet";
+"APP_YUNXIN_setAllRead"="Mark all messages as read";
+"APP_YUNXIN_clearMessage"="Clean up all messages";
+"APP_YUNXIN_MyComputer"="my computer";
+"App_YUNXIN_noPushData" = "No new push messages";
+"App_YUNXIN_receiveNewMessage" ="You received a new push message";
+"APP_YUNXIN_noLink"="(not connected)";
+"APP_YUNXIN_linking"="(connecting)";
+"APP_YUNXIN_synData"="(Synchronous Data)";
+"APP_YUNXIN_noMoreData"="No more data yet...";
+"APP_YUNXIN_sbAtU"="[Someone @ you]";
+"APP_YUNXIN_clearAfterRead"="[BurnAfterReading]";
+"APP_YUNXIN_mora"="[mora]";
+"APP_YUNXIN_addPic"="[Texture]";
+"APP_YUNXIN_whiteBoard"="[Whiteboard]";
+"APP_YUNXIN_RedEnvelope"="[Red envelope message]";
+"APP_YUNXIN_unknownMessage"="[Unknown message]";
+
+"APP_YUNXIN_AUDIO"="[voice]";
+"APP_YUNXIN_PIC"="[image]";
+"APP_YUNXIN_VIDEO"="[videio]";
+"APP_YUNXIN_LOCATION"="[location]";
+"APP_YUNXIN_FILE"="[file]";
+
+"APP_YUNXIN_netCall"="[Network call]";
+"APP_YUNXIN_VideoCall"="[Video chat]";
+"APP_YUNXIN_taolunzuUpdate"="[Discussion group information update]";
+"APP_YUNXIN_groupUpdate"="[Group information update]";
+"APP_YUNXIN_robotMessage"="[Robot message]";
+
+
+//消息-会话界面
+"APP_YUNXIN_cloudMessageList"="Cloud message record";
+"APP_YUNXIN_searchLocalMessageList"="Search for local message records";
+"APP_YUNXIN_clearLocalMessageList"="Clear local message history";
+"APP_YUNXIN_isWriting"="Typing…";
+"APP_YUNXIN_pleasChoose" = "please choose";
+"APP_YUNXIN_inputNote" = "Enter reminder";
+"APP_YUNXIN_hasSendButNotReceive" = "The message has been sent but the other party refused";
+"APP_YUNXIN_recordError" = "Recording failed";
+"APP_YUNXIN_recordTooShort" = "Recording time is too short";
+"APP_YUNXIN_clearMessageListConfirm" = "Make sure to clear your chat history？";
+"APP_YUNXIN_sendToOthers"="Forward";
+"APP_YUNXIN_operationBack" = "withdraw";
+"APP_YUNXIN_transformToWords" = "Transfer text";
+"APP_YUNXIN_ChooseConversationType" = "Select session type";
+"APP_YUNXIN_ConversationTypePersonal" = "personal";
+"APP_YUNXIN_ConversationTypeGroup" = "Group";
+"APP_YUNXIN_CanBackAfter2mins" = "Messages sent for more than 2 minutes cannot be withdrawn";
+"APP_YUNXIN_BackMessageFailed" = "Message withdrawal failed, please try again";
+"APP_YUNXIN_cannotCreateWithin2person"="Unable to initiate, the group number is less than 2 people";
+"APP_YUNXIN_cannotTalkToYourself" = "Can't talk to yourself";
+"APP_YUNXIN_pleaseCheckTheNet"="Please check the network";
+"APP_YUNXIN_hasSend" = "Has been sent";
+"APP_YUNXIN_sendToOthersConfirm" = "Confirm forwarding";
+"APP_YUNXIN_sendToOthersConfirmTo" ="Confirm forwarded to";
+"APP_YUNXIN_Contact_change"="switch";
+//消息-会话界面-聊天bar
+"APP_YUNXIN_Conversation_Album" = "Album";
+"APP_YUNXIN_Conversation_photograph" = "photograph";
+"APP_YUNXIN_Conversation_location" = "location";
+"APP_YUNXIN_Conversation_burnAfterRead" = "Burning after reading";
+"APP_YUNXIN_Conversation_InputMessage"="Please enter a message";
+"APP_YUNXIN_Conversation_pressToTalk" = "Hold and talk";
+"APP_YUNXIN_Conversation_noLimitationOfMicrophone" = "No microphone permissions";
+
+//消息-个人名片
+"APP_YUNXIN_PersonalCard_card"="Personal business card";
+"APP_YUNXIN_PersonalCard_edit"="Edit";
+"APP_YUNXIN_PersonalCard_nickName"= "Remark name";
+"APP_YUNXIN_PersonalCard_birthday"="Birthday";
+"APP_YUNXIN_PersonalCard_phone"="Mobile phone";
+"APP_YUNXIN_PersonalCard_email"="Email";
+"APP_YUNXIN_PersonalCard_sign"="Signature";
+"APP_YUNXIN_PersonalCard_notification"="Message notification";
+"APP_YUNXIN_PersonalCard_signnn" = "Signature";
+"APP_YUNXIN_PersonalCard_remarkName" = "Remark name";
+"APP_YUNXIN_PersonalCard_nickName"="Nickname";
+
+"APP_YUNXIN_PersonalCard_talk"="to chat with";
+"APP_YUNXIN_PersonalCard_delFriend"="Delete friend";
+"APP_YUNXIN_PersonalCard_addFriend"="Add friend";
+"APP_YUNXIN_PersonalCard_takeToBlackListSuccess"="Black success";
+"APP_YUNXIN_PersonalCard_takeToBlackListFailed"="Black failure";
+"APP_YUNXIN_PersonalCard_removeBlackListSuccess"="Successfully removed the blacklist";
+"APP_YUNXIN_PersonalCard_removeBlackListFailed"="Failed to remove blacklist";
+"APP_YUNXIN_PersonalCard_pleasPass"="Request for approval";
+"APP_YUNXIN_PersonalCard_addSuccess"="Added successfully";
+"APP_YUNXIN_PersonalCard_requestSuccess"="Request success";
+"APP_YUNXIN_PersonalCard_Addfailed"="Add failed";
+"APP_YUNXIN_PersonalCard_requestFailed"="Request failed";
+
+
+//设置
+"APP_YUNXIN_Setting"="Setting";
+"APP_YUNXIN_messageNotifacation"="Message notification";
+"APP_YUNXIN_notOpen"="Turned off";
+"APP_YUNXIN_hasOpen"="Turned on";
+"APP_YUNXIN_changeNotiSetting"="Find the application <ZhiWei School> in the Settings - Notification Center to change the new message reminder settings";
+"APP_YUNXIN_noDisturb"="Do not disturb";
+"APP_YUNXIN_about"="About";
+"APP_YUNXIN_logout"="Logout";
+"APP_YUNXIN_logoutAccount"="Exit the current account?";
+//设置-个人信息
+"APP_YUNXIN_PersonalInfo"="Personal information";
+"APP_YUNXIN_sex"="Gender";
+"APP_YUNXIN_birthday"="Birthday";
+"APP_YUNXIN_notSet"="Not set";
+"APP_YUNXIN_phoneNum"="Mobile phone";
+"APP_YUNXIN_email"="Email";
+"APP_YUNXIN_Sign"="Signature";
+"APP_YUNXIN_changePassword"="Password";
+"APP_YUNXIN_setHeadImage"="Set Avatar";
+"APP_YUNXIN_takePic"="photograph";
+"APP_YUNXIN_fromAlbum"="From album";
+"APP_YUNXIN_setHeadImageSuccess"="Set avatar success";
+"APP_YUNXIN_setHeadImageFailure"="Setting avatar failed";
+"APP_YUNXIN_setHeadImageFailure_pleaseTryAgagin"="Failed to set avatar, please try again";
+"APP_YUNXIN_uploadHeadImageFailure_pleaseTryAgagin"="Image upload failed, please try again";
+"APP_YUNXIN_saveHeadImageFailure_pleaseTryAgagin"="Image failed to save, please try again";
+//设置-个人信息-性别设置
+"APP_YUNXIN_sexSet"="gender";
+"APP_YUNXIN_sexMan"="male";
+"APP_YUNXIN_sexWomen"="Female";
+"APP_YUNXIN_sexOther"="other";
+"APP_YUNXIN_sexSetSuccess"="Successful gender setting";
+"APP_YUNXIN_sexSetFailed"="Gender setting failed, please try again";
+//设置-个人信息-生日设置
+"APP_YUNXIN_birthdaySet"="Choose date of birth";
+"APP_YUNXIN_birthdaySetSuccess"="Birthday setting is successful";
+"APP_YUNXIN_birthdaySetFailed"="Birthday setting failed, please try again";
+//设置-个人信息-手机号码
+"APP_YUNXIN_phoneNumber"="cellphone number";
+"APP_YUNXIN_phoneFinish"="complete";
+"APP_YUNXIN_phoneNumberTooLong"="Mobile phone number is too long";
+"APP_YUNXIN_phoneNumberSetSuccess"="Mobile phone setup is successful";
+"APP_YUNXIN_phoneNumberSetFailed"="Phone setup failed, please try again";
+//设置-个人信息-设置邮箱
+"APP_YUNXIN_emailSet"="Set email";
+"APP_YUNXIN_emailFinish"="complete";
+"APP_YUNXIN_emailTooLong"="The mailbox is too long";
+"APP_YUNXIN_emailSetSuccess"="Mailbox setup is successful";
+"APP_YUNXIN_emailSetFailed"="Mailbox settings failed, please try again";
+//设置-个人信息-设置签名
+"APP_YUNXIN_SignSet"="Set signature";
+"APP_YUNXIN_SignFinish"="complete";
+"APP_YUNXIN_SignTooLong"="Signature is too long";
+"APP_YUNXIN_SignSetSuccess"="Signature setting is successful";
+"APP_YUNXIN_SignSetFailed"="Signature setting failed, please try again";
+
+"APP_YUNXIN_remarkNameSetTooLong"="Memo name are too long";
+"APP_YUNXIN_remarkNamesetSuccess"="Memo name is set successfully";
+"APP_YUNXIN_remarkNamesetFailed"="Memo name failed, please try again";
+
+//设置-个人信息-修改密码
+"APP_YUNXIN_pw_change"="Change Password";
+"APP_YUNXIN_pw_submit"="submit";
+"APP_YUNXIN_pw_ori"="Old PW";
+"APP_YUNXIN_pw_new"="New PW";
+"APP_YUNXIN_pw_confirm"="Confirm PW";
+"APP_YUNXIN_pw_part"="Some PW information is incomplete";
+"APP_YUNXIN_pw_wrong"="Old PW error";
+"APP_YUNXIN_pw_save"="saving...";
+"APP_YUNXIN_pw_changeSuccess"="Successfully modified";
+"APP_YUNXIN_pw_changeFailed"="fail to modify";
+"APP_YUNXIN_pw_notSame"="Inconsistent entry password";
+"APP_YUNXIN_pw_6To12"="The password is 6-12";
+//设置-免打扰设置
+"APP_YUNXIN_disturb_setting"="Do not disturb setting";
+"APP_YUNXIN_disturbb"="Do not disturb";
+"APP_YUNXIN_disturb_from"="from";
+"APP_YUNXIN_disturb_to"="to";
+"APP_YUNXIN_disturb_notNotifacation"="In the set time period, the Zhiwei school message will no longer be reminded.";
+"APP_YUNXIN_disturb_needSame"="End time cannot be consistent with start time";
+"APP_YUNXIN_disturb_failed"="DND setting update failed";
+//设置-关于
+"APP_YUNXIN_about_copyDownloadURL"="Copy download link";
+"APP_YUNXIN_about_checkUpdate"="Check for updates";
+"APP_YUNXIN_about_noUpdate"="No updates yet";
+"APP_YUNXIN_about_newVersion"="New version update";
+"APP_YUNXIN_about_nowVersion"="current version";
+
+//通讯录
+"APP_YUNXIN_Contact_AdressBook"="Contacts";
+"APP_YUNXIN_Contact_inputGroupName"="Please enter a group name";
+"APP_YUNXIN_Contact_advGroup"="Group";
+"APP_YUNXIN_Contact_inviteUjoinInTheGroup"="Invite you to join the group";
+"APP_YUNXIN_Contact_createFailure"="Creation failed";
+"APP_YUNXIN_Contact_Contact"="Contact";
+"APP_YUNXIN_Contact_delFriend"="delete friend";
+"APP_YUNXIN_Contact_delFriendAnddelRelationship"="After deleting a friend, the friend relationship of both parties will be released at the same time.";
+"APP_YUNXIN_Contact_delSuccess"="successfully deleted";
+"APP_YUNXIN_Contact_delFailed"="failed to delete";
+"APP_YUNXIN_Contact_group" = "group";
+
+//通讯录-验证消息
+"APP_YUNXIN_Contact_ajaxMessage"="Verification message";
+"APP_YUNXIN_Contact_loadMore" = "Load more";
+"APP_YUNXIN_Contact_clear" = "Empty";
+"APP_YUNXIN_Contact_agreeSuccess" = "Agree to success";
+"APP_YUNXIN_Contact_serverError" = "Network problem, please try again";
+"APP_YUNXIN_Contact_acceptSuccess" = "Accept success";
+"APP_YUNXIN_Contact_groupNotExsit" = "Group does not exist";
+"APP_YUNXIN_Contact_ajaxSuccess" = "Successful verification";
+"APP_YUNXIN_Contact_ajaxfailed" = "Verification failed, please try again";
+"APP_YUNXIN_Contact_refuseSuccess" = "Refusal of success";
+"APP_YUNXIN_Contact_refuseFailed" = "Refused to fail, please try again";
+//通讯录-高级群
+"APP_YUNXIN_Contact_advGroup"="Group";
+//通讯录-讨论组
+"APP_YUNXIN_Contact_taolunzu"="Discussion group";
+//通讯录-黑名单
+"APP_YUNXIN_Contact_blackList"="Blacklist";
+"APP_YUNXIN_Contact_blackList_notReceive" = "You will not receive any messages from the contacts in the list";
+"APP_YUNXIN_Contact_blackList_operationSuccess" = "Successful operation！";
+"APP_YUNXIN_Contact_blackList_operationFailed" = "operation failed！";
+//通讯录-我的电脑
+"APP_YUNXIN_Contact_MyComputer"="My Computer";
+//通讯录-组织机构&班级
+"APP_YUNXIN_Contact_organization"="Organization";
+"APP_YUNXIN_Contact_class"="Class";
+"APP_YUNXIN_Contact_theUserNotExist"="this user does not exist";
+"APP_YUNXIN_Contact_checkAccountRight"="Please check if the account you entered is correct.";
+//通讯录-右上角操作-添加好友
+"APP_YUNXIN_Contact_chooseType"="Select Operation";
+"APP_YUNXIN_Contact_AddFriend"="Add friend";
+"APP_YUNXIN_Contact_createAdvGroup"="Create advanced group";
+"APP_YUNXIN_Contact_createTTaolunzu"="Create a discussion group";
+"APP_YUNXIN_Contact_searchAdvGroup"="Search for advanced groups";
+"APP_YUNXIN_Contact_chooseContact"="Select contact";
+"APP_YUNXIN_Contact_chooseContactUponLimit" = "Choose over limit";
+
+"APP_YUNXIN_Contact_chooseContactOften" = "Add a favorite contact";
+"APP_YUNXIN_Contact_inputUserName"="please enter user name";
+"APP_YUNXIN_Contact_theUserNotExist"="this user does not exist";
+"APP_YUNXIN_Contact_checkAccountRight"="Please check if the account you entered is correct.";
+"APP_YUNXIN_Contact_inputRightAccount"="Please enter valid contact information";
+"APP_YUNXIN_Contact_searchWithoutContact"="No contacts found";
+"APP_YUNXIN_Contact_inputContactAccount"="Please enter a contact name";
+"APP_YUNXIN_Contact_searchGroupAndJoin"="Search join group";
+//圈子
+"APP_Circle_xiaoyouquan"="Alumni circle";
+"APP_Circle_banjiqiangbao"="Class wall newspaper";
+"APP_Circle_newState"="New development";
+"APP_Circle_momentThinking"="This moment of thought";
+"APP_Circle_send"="send";
+"APP_Circle_chooseImageSource"="Select image source";
+"APP_Circle_fromCamera"="Camera";
+"APP_Circle_FromAlbum"="Album";
+"APP_Circle_shareNewState"="Share your new developments";
+"APP_Circle_shareSuccess"="Sharing success😄";
+"APP_Circle_shareFailed"="Sharing failure😒";
+"APP_Circle_chooseClass"="Please select the class to send to";
+"APP_Circle_sendTo"="send to";
+"APP_Circle_deleteArea"="Delete dynamic";
+"APP_Circle_deleteConfirm"="Are you sure you want to delete this activity?？";
+"APP_Circle_CancelZan"="Dislike";
+"APP_Circle_zan"="Like";
+"APP_Circle_pinglun"="comment";
+
+//登录
+"APP_Login_LoginStepCheck"="Verifying user information";
+"APP_Login_Logining"="logging in...";
+"APP_Login_ServerFailure"="Connection to the communication server failed";
+"APP_Login_ServerFailure2"="Unable to connect to server, please check network";
+"APP_Login_ServerSetting"="Configuring the server address";
+"APP_Login_Input_IP_Address"="Please enter the server address";
+"APP_Login_LoginTimeOut"="Your user information has expired, please log in again";
+"APP_Login_SchoolChoose"="School choice";
+"APP_Login_ServerAddressAjax"="Verify server address";
+"APP_Login_ServerIpAddressSetupSuccess"="Configuring the server address successfully";
+"APP_Login_ServerIpAddressSetupFailure"="Verify server address failed";
+//找回密码
+"APP_LoginPW_findPasswordBack"="Retrieve password";
+"APP_LoginPW_SchoolName"="School";
+"APP_LoginPW_userName"= "UserName";
+"APP_LoginPW_PhoneNum"="CellPhone";
+"APP_LoginPW_ajaxNum"="PIN";
+"APP_LoginPW_Newpassword"="New PW";
+"APP_LoginPW_repeatPassword"="RepeatPW";
+
+"APP_LoginPW_InputTruePhoneNum"="please enter a valid phone number";
+"APP_LoginPW_GettingAjaxNum"="Getting verification code";
+"APP_LoginPW_GettingAjaxNumSuccess"="The PIN was successfully obtained.";
+"APP_LoginPW_serverError"="Communication failure with the server";
+"APP_LoginPW_passWordNotSame"="New password and duplicate password are inconsistent";
+"APP_LoginPW_isSubmiting"="Submitting request";
+"APP_LoginPW_findPasswordBackSuccess"="Password recovery succeeded";
+"APP_LoginPW_chooseSchool"="Please choose a school";
+"APP_LoginPW_inputName"="Please enter the login username";
+"APP_LoginPW_inputPhoneNum"="Please enter phone number";
+"APP_LoginPW_inputAjaxNum"="please enter verification code";
+"APP_LoginPW_inputNewPassword"="Please enter a new password";
+"APP_LoginPW_inputRepeatPassword"="Please enter a duplicate password";
+"APP_LoginPW_getAjaxCode"="get PIN...";
+"APP_LoginPW_haisheng"="Remaining";
+"APP_LoginPW_second"="s";
+
+
+
+//作业
+"APP_MyHomeWork"="homework";
+"APP_MyHomeWork_Title"="My Homework";
+"APP_MyHomeWork_All"="All";
+"APP_MyHomeWork_Submitted_until"="Submitted until";
+"APP_MyHomeWork_hasFinished"="Completed";
+"APP_MyHomeWork_checkMyHW"="View my homework";
+"APP_MyHomeWork_unFinished"="Undone";
+"APP_MyHomeWork_submitHW"="submit homework";
+"APP_MyHomeWork_HasExpired"="Expired";
+"APP_MyHomeWork_downloadFailed"="Download failed, attachment may not exist";
+"APP_MyHomeWork_CheckHW"="View assignment";
+"APP_MyHomeWork_HWNote"="homework note";
+"APP_MyHomeWork_submitEmpty"="Submit content is empty";
+"APP_MyHomeWork_summitSuccess"="Successful upload";
+"APP_MyHomeWork_summitFailed"="upload failed";
+"APP_MyHomeWork_chooseSubject"="Select subject";
+"APP_MyHomeWork_Sunday"="Sun";
+"APP_MyHomeWork_Mon"="Mon";
+"APP_MyHomeWork_Tus"="Tue";
+"APP_MyHomeWork_wens"="Wed";
+"APP_MyHomeWork_Ths"="Thu";
+"APP_MyHomeWork_fri"="Fri";
+"APP_MyHomeWork_sat"="Sat";
+
+//成绩
+"APP_grade_ExamList" ="Transcript";
+"APP_grade_noExam" = "No exam";
+"APP_grade_noExamData" = "No grade data";
+"APP_grade_subject" ="subject";
+"APP_grade_score" ="fraction";
+"APP_grade_classRank" ="ClassRanking";
+"APP_grade_gradeRank" ="GradeRanking";
+
+
+//通知
+"APP_note_title" ="Notice";
+"APP_note_receiveBox" ="inbox";
+"APP_note_unRead" ="unread";
+"APP_note_attention" ="attention";
+"APP_note_hasAttention" ="Already concerned";
+"APP_note_sendBox" ="Outbox";
+"APP_note_hasChoosen" ="chosen";
+"APP_note_sureToRead" ="Are you sure you want to make all message reminders read?";
+"APP_note_noAttention" ="unsubscribe";
+"APP_note_Edit" ="edit";
+"APP_note_transfrom"="Transfer from";
+"APP_note_pleaseWait"="Please wait";
+"APP_note_setAllRead"="Already set to read";
+"APP_note_operationFailed"="operation failed";
+"APP_note_multiRead"="Multiple selection";
+"APP_note_cantEditWithoutData"="No data can't be edited yet";
+"APP_note_choose0"="Selected 0";
+"APP_note_noDetail"="No details";
+"APP_note_shifouyichu"="Do you want to remove this";
+"APP_note_tiaotongzhi"="notice";
+"APP_note_tiaoyiyichu"="has been Removed";
+"APP_note_hasChoosenReceiveMan"="Selected recipient";
+"APP_note_ChooseReceiveMan"="Select recipient";
+"APP_note_nearbyContact"="Most recent contact";
+//"APP_note_tiaoyiquxiaoguanzhu"="条已取消关注";
+"APP_note_tiaoyiquxiaoguanzhu"="has been Unfollowed";
+//"APP_note_tiaoyiguanzhu"="条已关注";
+"APP_note_tiaoyiguanzhu"="Has been concerned";
+"APP_note_teacher"="Teacher";
+"APP_note_student"="Student";
+"APP_note_parent"="Parent";
+"APP_note_customize"="customize";
+"APP_note_takeToForward"="With original text forwarding";
+"APP_note_ignoreToForward"="Ignore the original text forwarding";
+"APP_note_forward"="Forward";
+"APP_note_Delete"="delete";
+"APP_note_Me"="Me";
+"APP_note_stastic"="statistics";
+"APP_note_detail"="Details";
+"APP_note_approve"="display";
+"APP_note_hidden"="hide";
+"APP_note_sendTime"="Sending time";
+"APP_note_sendPerson"="sender";
+"APP_note_gefujian"="attachment";
+"APP_note_tokenFalse"="The configuration information is invalid. Please log in again.";
+"APP_note_delNotifacation"="Delete the notification";
+"APP_note_hasDelete"="deleted";
+"APP_note_hasRemoveAttention"="Removed attention";
+"APP_note_sendNotice"="Send notification";
+"APP_note_receiver"="Receiver:";
+"APP_note_theme"="Theme:";
+"APP_note_pic"="image";
+"APP_note_editOriAritrl"="Edit original";
+"APP_note_inputNotice"="Please enter the notification content";
+"APP_note_mayLose"="Editing the original text may cause some formatting or content to be lost. Will confirmation continue?";
+"APP_note_noTheme"="(No subject)";
+"APP_note_noThemeTosend"="Did not fill in the subject, confirm to continue to send?？";
+"APP_note_noChooseReceiver"="Unselected recipient";
+"APP_note_noticeSending"="Message being sent";
+"APP_note_SendSuccess"="Sent successfully";
+"APP_note_haisheng"="Remain\n";
+"APP_note_readStastic"="Reading statistics";
+"APP_note_copyList"="Copy list";
+"APP_note_hasReadPerson"="Reader";
+"APP_note_noReadPerson"="Unread person";
+"APP_note_noReadPersonCopy"="Unread people have been cut to the clipboard";
+"APP_note_allSendto"="Sent to";
+"APP_note_person"="person";
+"APP_note_giveUpEdit"="Give up the current edit";
+"APP_note_giveUpEditNote"="The current edit content cannot be saved after exiting. Can you confirm the exit?";
+
+//报修
+"APP_repair_Title" = "Repair";
+"APP_repair_myMaintenance"="My maintenance";
+"APP_repair_getRepairData" = "Getting repair data";
+"APP_repair_noRepairTip" = "No notice for repairs";
+"APP_repair_getNewestRepairDataFailed" = "Failed to get the latest repair data";
+"APP_repair_IneedRepari" = "I want to repair";
+"APP_repair_notAcceptDan" = "Missed order";
+"APP_repair_repairing" = "Repairing";
+"APP_repair_waitToEvaluation" = "Be evaluated";
+"APP_repair_Deal" = "Pending";
+//"APP_repair_hasSendDan" = "Already sent";
+"APP_repair_hasSendDan" = "Sent";
+"APP_repair_myNeedRepair" = "My repair";
+"APP_repair_viewALlNeedRepairList" = "View all repair orders";
+"APP_repair_repairManagement" = "Repair management";
+"APP_repair_viewAllweixiudan" = "View all maintenance orders";
+"APP_repair_repairNeedKnow" = "Notice of repair";
+"APP_repair_getRepairsubmitListfailed" = "Failed to get the repair order data";
+"APP_repair_getRepairServiceListfailed" = "Failed to get repair process data";
+"APP_repair_repairSubmitDetail" = "Repair order details";
+"APP_repair_daishenpifeiyong" = "Pending fee:";
+"APP_repair_repairStepRecord" = "Maintenance record";
+"APP_repair_repairFeedbackEvaluation" = "Report feedback evaluation";
+"APP_repair_feedbackNotFull" = "Some ratings are incomplete, please re-rate";
+"APP_repair_submitingFeedback" = "Submitting feedback review";
+"APP_repair_EvaluationSuccess" = "Successful evaluation";
+"APP_repair_EvaluationFailed" = "Evaluation submission failed";
+"APP_repair_chooseInput" = "Optional";
+"APP_repair_Evaluation" = "Evaluation";
+"APP_repair_sureToDelTheRepairSubmit" = "Are you sure to delete this ticket?";
+"APP_repair_delRepairSubmitSuccess" = "Delete the repair order successfully";
+"APP_repair_delRepairSubmitFailed" = "Deleting a repair order failed";
+"APP_repair_myRepairSubmit" = "My repair order";
+"APP_repair_repairServiceFeedback" = "Maintenance feedback";
+"APP_repair_submitFeedBack" = "Submit feedback";
+"APP_repair_peijianzongjine" = "Total amount of accessories (CNY)";
+"APP_repair_somePartDetailNotInput" = "Existing parts line item is missing!";
+"APP_repair_hasFeedback" = "Feedback";
+"APP_repair_myRepair" = "My repair";
+"APP_repair_deviceSep" = "Equipment classification";
+"APP_repair_getDeviceList" = "Get device list";
+"APP_repair_getDeviceListFailed" ="Failed to get device list";
+"APP_repair_repairSubmitList" = "Repair order";
+"APP_repair_contactPhone" = "Contact \nnumber";
+"APP_repair_repairSubmitPerson" = "Reporter";
+"APP_repair_plzInpustPhone" = "Please enter your phone number";
+"APP_repair_addErrorDesArea" = "Please add a fault description";
+"APP_repair_chooseErrorArea" = "Select the location of the fault";
+"APP_repair_zanWeiKaiTong" = "This feature has not been activated yet.";
+"APP_repair_repairServiceGroup" = "Maintenance group";
+"APP_repair_cantTalkToSelf" = "You can't chat with yourself";
+"APP_repair_getAccountFailed" = "Failed to get the communication account, please try again later";
+"APP_repair_thePhoneNumIsEmpty" = "The mobile number is an empty number";
+//"APP_repair_moneyCheck" = "Cost approval";
+"APP_repair_moneyCheck" = "Approval";
+"APP_repair_reviewHasSubmited" = "Review submitted";
+"APP_repair_gettingServicerList" = "Getting a list of repairers";
+"APP_repair_gettingServicerListFailed" = "Failed to get list of maintenance personnel";
+"APP_repair_orderServicer" = "Designated maintenance personnel";
+"APP_repair_submiting" = "submitting...";
+"APP_repair_orderServicerSuccess" = "Designated maintenance personnel succeeded";
+"APP_repair_orderServicerFailed" = "Designated maintenance personnel failed";
+"APP_repair_addPartDetail" = "Add accessory";
+"APP_repair_name" = "Name";
+"APP_repair_likeServiceCount" = "Similar repairs";
+"APP_repair_nowServiceing" = "Now repairing";
+"APP_repair_mustInput" = "Required";
+"APP_repair_orders" = "Orders";
+"APP_repair_ordersTips" = "After receiving the order, other people can't pick up the order again. Can you confirm the order?";
+
+
+//资产
+"APP_assets_title" = "assets";
+"APP_assets_management"="Asset Management";
+"APP_assets_myAsset"="My assets";
+"APP_assets_ReviewApply" ="Application review";
+"APP_assets_assetsApply" ="Asset application";
+"APP_assets_assetsIssue" ="Issuing assets";
+"APP_assets_assetSign" = "Upload signature";
+"APP_assets_assetsReSign"="Follow-up";
+"APP_assets_ReviewSubmission" ="Review submission";
+"APP_assets_ReviewSuccess" ="Successful review";
+"APP_assets_ReviewFailed" ="Review submission failed, may be a network issue";
+"APP_assets_All" ="All";
+"APP_assets_notReview" ="Unreviewed";
+"APP_assets_notPass" ="Did not pass";
+"APP_assets_hasPass" ="Passed";
+"APP_assets_hasIssue" ="Issued";
+"APP_assets_mine" ="Mine";
+"APP_assets_waitReview" ="Unreviewed";
+"APP_assets_waitIssue" ="Pending";
+"APP_assets_outWarehouse" ="Outbound";
+"APP_assets_stastic" ="Statistics";
+"APP_assets_issue" ="Issue";
+"APP_assets_Review" ="Review";
+"APP_assets_chooseApplyDate" ="Please select the application date";
+"APP_assets_chooseOrg" ="Please select the application department";
+"APP_assets_chooseAssetType" ="Please select an asset type";
+"APP_assets_chooseSchool" ="Please select the school district to be applied for.";
+"APP_assets_chooseApply" ="Please select a reviewer";
+"APP_assets_submitApplication" ="Submitting application";
+"APP_assets_applySuccess" ="Apply for asset success";
+"APP_assets_applyFailed" ="Application for asset failure";
+"APP_assets_chooseBackError" ="The return date is incorrect. The current date is defaulted.";
+"APP_assets_applyyy" ="Application";
+"APP_assets_assetTyoe" ="Asset Class";
+"APP_assets_applyDate" ="Date of Application";
+"APP_assets_USER" ="user";
+"APP_assets_applyORG" ="Application sector";
+"APP_assets_appliedSchool" ="Applicable campus";
+"APP_assets_applyUSAGE" ="Description of use";
+"APP_assets_applySetting" ="Configuration instructions";
+"APP_assets_applySTatis" ="status";
+"APP_assets_applyCheckNote" ="Review instructions";
+"APP_assets_assetCard"="Asset card";
+"APP_assets_assetcode"="Asset code";
+"APP_assets_assetIssueing"="Issuance of assets";
+"APP_assets_assetIssueSuccess"="Successfully issued";
+"APP_assets_assetIssueFailed"="Disbursement";
+"APP_assets_RESIGN"="Supplement";
+"APP_assets_RESIGNForbidden"="Disabled in patch mode";
+"APP_assets_wiatToIssueAsset"="Assets to be issued";
+"APP_assets_borrowDate"="Borrow date:";
+"APP_assets_Remove"="remove";
+"APP_assets_searchAsset" ="Find assets";
+"APP_assets_chooseSearchWays" ="Please select a search method";
+"APP_assets_waysSearch" ="Conditional lookup";
+"APP_assets_scanSearch" ="Scan code search";
+"APP_assets_notAddWaitAsset" ="No pending assets added";
+"APP_assets_removeSuccess" ="Successfully removed";
+"APP_assets_scanToIn" ="Scan code entry";
+"APP_assets_warning" ="caveat";
+"APP_assets_noUseScanCode" ="Invalid QR code";
+"APP_assets_chooseAssetType" ="Select asset type";
+"APP_assets_ApplicationList" ="Application record";
+"APP_assets_hasReturn" ="Returned";
+"APP_assets_noMore" ="No more";
+"APP_assets_hasIssuedAsset" ="Issued assets";
+"APP_assets_noIssueData" ="No data is released yet";
+"APP_assets_IssueDetail" ="Release details";
+"APP_assets_returnDetail" ="Return details";
+"APP_assets_getAssetData" ="Get asset data";
+"APP_assets_searchWithOrder" ="Please check the conditions in order";
+"APP_assets_updateAssets" ="Update asset data";
+"APP_assets_searchByCondition" ="Find by condition";
+"APP_assets_getStasticData" ="Get statistics";
+"APP_assets_cantFindSuitAsset" ="Cannot find the corresponding asset";
+"APP_assets_searchResult" ="Search Results";
+"APP_assets_Add" ="Add";
+"APP_assets_AddtoWaitIssue" ="Added to pending list";
+"APP_assets_removeFromWaitIssue" ="Has been removed from the pending list";
+"APP_assets_startDate" ="Start date";
+"APP_assets_endDate" ="End date";
+"APP_assets_IWantToApplyAsset" ="I want to apply for assets";
+"APP_assets_dangqianninyou" ="Currently you have";
+"APP_assets_jishibuqian" =" release records that need to be reissued, please re-sign to the administrator in time";
+"APP_assets_netError" ="Network exception, please check the network";
+"APP_assets_notice" ="Asset reminder";
+"APP_assets_nowNo"= "No";
+"APP_assets_SignOrNot" ="Whether to sign";
+"APP_assets_assetName" ="Asset Name";
+"APP_assets_code" ="Asset code";
+"APP_assets_" ="Borrow date:";
+"APP_assets_guige" ="Model specification";
+"APP_assets_returnPerson" ="Returning person";
+"APP_assets_returnOrg" ="Return department";
+"APP_assets_dealPerson" ="Manager";
+"APP_assets_returnDate" ="Return date";
+
+
+//库房管理(易耗品管理)
+"APP_wareHouse_title" ="Consumables";
+"APP_wareHouse_noticeNoti" ="Notification reminder";
+"APP_wareHouse_IwantApply" ="Apply for an item";
+//"APP_wareHouse_fenshenhetongguo" ="份申请审核通过";
+"APP_wareHouse_fenshenhetongguo" ="applications approved";
+"APP_wareHouse_nowGettingData" ="Getting data";
+"APP_wareHouse_applyIssue" ="Apply for payment";
+"APP_wareHouse_applyList" ="Requisition";
+"APP_wareHouse_review" ="Review";
+"APP_wareHouse_submitReview" ="Submitting review";
+"APP_wareHouse_ReviewSuccess" ="Successful submission of the review";
+"APP_wareHouse_ReviewFailed" ="Review submission failed";
+"APP_wareHouse_chooseOutWH" = "Choose outbound warehouse";
+"APP_wareHouse_chooseType" = "Find";
+"APP_wareHouse_pickerTitle" ="title";
+"APP_wareHouse_uploadSIgn" ="Upload signature";
+"APP_wareHouse_houxuBuqian" ="Follow-up";
+"APP_wareHouse_chooseIssueWays" ="Please choose the delivery method";
+"APP_wareHouse_write" ="handwriting";
+"APP_wareHouse_getType" ="Requisition type";
+"APP_wareHouse_chooseApplyPerson" ="Choose a claimant";
+"APP_wareHouse_addDate" ="Add date";
+"APP_wareHouse_submitFailed" ="Submission Failed";
+"APP_wareHouse_submitSuccess" = "Submitted successfully";
+"APP_wareHouse_submiting" ="Submitting";
+"APP_wareHouse_plzChooseWH" ="Please select a warehouse";
+"APP_wareHouse_plzChooseUser" ="Please select a recipient";
+"APP_wareHouse_plzAddThings" ="Please add items" ;
+"APP_wareHouse_applyThingsList" ="Claim list";
+"APP_wareHouse_clickToChoose" ="Click to select";
+"APP_wareHouse_chooseWHFirst" ="Please select the warehouse warehouse first.";
+"APP_wareHouse_dangqianzhongliangwei" ="The current warehouse quantity is";
+"APP_wareHouse_yichaochu" ="Exceeded!";
+"APP_wareHouse_goodsDetail" ="Item details";
+"APP_wareHouse_goodsSep" ="Item classification";
+"APP_wareHouse_applyDetail" ="Application details";
+"APP_wareHouse_checkSign" ="[ View signature ]";
+"APP_wareHouse_unSign" ="[ Not signed ]";
+"APP_wareHouse_outList" ="Outbound order";
+"APP_wareHouse_searching" ="Searching";
+"APP_wareHouse_searchNobodyData" ="The user's data was not found";
+"APP_wareHouse_searchError" ="Search failed, possible network problem";
+"APP_wareHouse_plzInputUserName" ="please enter user name";
+"APP_wareHouse_plzInputKeyWords" ="Please enter your search keywords";
+"APP_wareHouse_search" ="search for";
+"APP_wareHouse_reSignSuccess" ="Successful signing";
+"APP_wareHouse_reSignFailed" ="Patch failed";
+"APP_wareHouse_part" ="department";
+"APP_wareHouse_zongwu" ="General affairs";
+"APP_wareHouse_applyREview" ="Claim for review";
+"APP_wareHouse_applyGetList" ="Application form";
+"APP_wareHouse_codeToast" ="Please enter the claim form number, the recommended format is time + number, such as 20170426001";
+"APP_wareHouse_plzChooseGoods" ="Please select a product";
+"APP_wareHouse_applySubmitSuccess" ="Successful application submission";
+"APP_wareHouse_applySubmitFailed" ="Application submission failed !";
+"APP_wareHouse_cantGetCheckerNow" ="Temporarily unable to get reviewers";
+"APP_wareHouse_partChecker" ="Department reviewer";
+"APP_wareHouse_applyOrg" ="Claim department";
+"APP_wareHouse_MyApplication" ="My claim";
+"APP_wareHouse_goodsStastic" ="Item statistics";
+"APP_wareHouse_inWHDetail" ="Storage details";
+"APP_wareHouse_outWHDetail" ="Outbound details";
+"APP_wareHouse_whDetail" ="Inventory details";
+"APP_wareHouse_applyGoodsList" ="   Claim list";
+"APP_wareHouse_goodsName" ="Item Name";
+"APP_wareHouse_count" ="Quantity";
+"APP_wareHouse_price" ="Amount";
+"APP_wareHouse_schoolArea" ="Campus";
+"APP_wareHouse_WH" ="Warehouse";
+"APP_wareHouse_remianCount" ="The remaining amount";
+"APP_wareHouse_name" = "Name";
+"APP_wareHouse_remainNow" ="Current inventory";
+"APP_wareHouse_inWHCount" ="Number of warehousing";
+"APP_wareHouse_outWHCount" ="Number of outbound";
+"APP_wareHouse_notIssue" ="Not issued";
+"APP_wareHouse_partNotCheck" ="Department not reviewed";
+"APP_wareHouse_ZWNotCheck" ="General affairs not reviewed";
+"APP_wareHouse_ZWPassCheck" ="General affairs review";
+"APP_wareHouse_hasSign" ="Signed";
+"APP_wareHouse_notSign" ="Not signed";
+
+

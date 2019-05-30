@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "出库日期:"; ObjectID = "4PN-cz-Cp0"; */
+"4PN-cz-Cp0.text" = "Outbound date:";
+
+/* Class = "UILabel"; text = "出库仓库:"; ObjectID = "6pB-Pl-ubq"; */
+"6pB-Pl-ubq.text" = "Outbound warehouse:";
+
+/* Class = "UIButton"; normalTitle = "查看"; ObjectID = "7Il-FT-DBP"; */
+"7Il-FT-DBP.normalTitle" = "View";
+
+/* Class = "UILabel"; text = "出库类型:"; ObjectID = "BXQ-37-KZi"; */
+"BXQ-37-KZi.text" = "Outbound type:";
+
+/* Class = "UILabel"; text = "状态"; ObjectID = "BbZ-Jj-VxT"; */
+"BbZ-Jj-VxT.text" = "status";
+
+/* Class = "UILabel"; text = "申 领 人 :"; ObjectID = "F5W-nR-H2D"; */
+"F5W-nR-H2D.text" = "Applicant :";
+
+/* Class = "UILabel"; text = "出库单号:"; ObjectID = "Iax-G1-cLY"; */
+"Iax-G1-cLY.text" = "Outbound Code:";
+
+/* Class = "UIButton"; normalTitle = "补签"; ObjectID = "QGm-4x-2ou"; */
+"QGm-4x-2ou.normalTitle" = "Supplement";

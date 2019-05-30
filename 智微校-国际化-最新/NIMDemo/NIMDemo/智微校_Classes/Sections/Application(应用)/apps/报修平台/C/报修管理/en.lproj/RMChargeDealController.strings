@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "提交审批"; ObjectID = "MWe-4D-zJK"; */
+"MWe-4D-zJK.normalTitle" = "Submit approval";
+
+/* Class = "UILabel"; text = "说明/原因:"; ObjectID = "RRI-BZ-WMd"; */
+"RRI-BZ-WMd.text" = "Reason:";
+
+/* Class = "UILabel"; text = "通过"; ObjectID = "TIx-92-V6I"; */
+"TIx-92-V6I.text" = "Pass";
+
+/* Class = "UILabel"; text = "不通过"; ObjectID = "nuQ-OH-BxK"; */
+"nuQ-OH-BxK.text" = "Fail";
+
+/* Class = "UILabel"; text = "审核状态:"; ObjectID = "xec-Ww-nKW"; */
+"xec-Ww-nKW.text" = "Approval Status:";

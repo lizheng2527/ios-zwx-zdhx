@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "校层:"; ObjectID = "9fR-ir-kzX"; */
+"9fR-ir-kzX.text" = "Floor:";
+
+/* Class = "UILabel"; text = "校区:"; ObjectID = "Mka-zZ-LYW"; */
+"Mka-zZ-LYW.text" = "Campus:";
+
+/* Class = "UILabel"; text = "  报修地点"; ObjectID = "MpJ-7k-k3X"; */
+"MpJ-7k-k3X.text" = "  Repair location";
+
+/* Class = "UILabel"; text = "楼宇:"; ObjectID = "g9h-Ar-oOR"; */
+"g9h-Ar-oOR.text" = "Building:";
+
+/* Class = "UILabel"; text = "房间:"; ObjectID = "q08-d0-PPG"; */
+"q08-d0-PPG.text" = "Room:";

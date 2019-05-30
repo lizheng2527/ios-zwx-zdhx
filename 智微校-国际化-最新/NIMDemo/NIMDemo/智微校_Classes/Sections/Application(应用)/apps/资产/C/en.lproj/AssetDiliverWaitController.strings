@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "未添加待发放资产"; ObjectID = "3e9-hw-gVa"; */
+"3e9-hw-gVa.text" = "No pending assets added";
+
+/* Class = "UIButton"; normalTitle = "发放"; ObjectID = "98B-M0-eOy"; */
+"98B-M0-eOy.normalTitle" = "Issue";
+
+/* Class = "UIButton"; normalTitle = "添加"; ObjectID = "CVX-o3-XBL"; */
+"CVX-o3-XBL.normalTitle" = "Add";

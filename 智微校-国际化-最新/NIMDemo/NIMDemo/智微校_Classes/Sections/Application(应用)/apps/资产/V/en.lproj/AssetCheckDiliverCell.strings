@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; normalTitle = "发放"; ObjectID = "3FZ-gW-2Iu"; */
+"3FZ-gW-2Iu.normalTitle" = "Issue";
+
+/* Class = "UILabel"; text = "资产类别:"; ObjectID = "5Tl-hK-1uP"; */
+"5Tl-hK-1uP.text" = "Asset Class:";
+
+/* Class = "UILabel"; text = "被申请校区:"; ObjectID = "BXQ-SD-ncm"; */
+"BXQ-SD-ncm.text" = "Applicable campus:";
+
+/* Class = "UIButton"; normalTitle = "查看"; ObjectID = "KMg-Fu-dc2"; */
+"KMg-Fu-dc2.normalTitle" = "View";
+
+/* Class = "UILabel"; text = "配置说明:"; ObjectID = "Mgr-0T-v5a"; */
+"Mgr-0T-v5a.text" = "Configuration instructions:";
+
+/* Class = "UILabel"; text = "申请日期:"; ObjectID = "PzB-Au-Hhg"; */
+"PzB-Au-Hhg.text" = "Date of Application:";
+
+/* Class = "UILabel"; text = "使用人:"; ObjectID = "ZWo-UO-0t0"; */
+"ZWo-UO-0t0.text" = "User:";
+
+/* Class = "UIButton"; normalTitle = "审核"; ObjectID = "dw8-HN-YKa"; */
+"dw8-HN-YKa.normalTitle" = "Review";
+
+/* Class = "UILabel"; text = "审核状态"; ObjectID = "gmM-bf-7tw"; */
+"gmM-bf-7tw.text" = "Approval Status";
+
+/* Class = "UILabel"; text = "用途说明:"; ObjectID = "tD6-Bh-U88"; */
+"tD6-Bh-U88.text" = "Usage:";
+
+/* Class = "UILabel"; text = "申请部门:"; ObjectID = "uBk-5t-MtU"; */
+"uBk-5t-MtU.text" = "Application sector:";

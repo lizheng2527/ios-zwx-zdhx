@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "移除"; ObjectID = "6hE-dg-ESB"; */
+"6hE-dg-ESB.normalTitle" = "remove";
+
+/* Class = "UILabel"; text = "金额:"; ObjectID = "J9V-IZ-T7p"; */
+"J9V-IZ-T7p.text" = "amount:";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "K1E-oK-Bee"; */
+"K1E-oK-Bee.text" = "1";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "YMe-LV-6lv"; */
+"YMe-LV-6lv.placeholder" = "0";
+
+/* Class = "UIButton"; normalTitle = "－"; ObjectID = "Z3n-Ki-Vzf"; */
+"Z3n-Ki-Vzf.normalTitle" = "－";
+
+/* Class = "UIButton"; normalTitle = "➕"; ObjectID = "jIA-SB-buH"; */
+"jIA-SB-buH.normalTitle" = "➕";
+
+/* Class = "UILabel"; text = "申领物品名称:"; ObjectID = "y3C-7Q-kSM"; */
+"y3C-7Q-kSM.text" = "Claim item name:";

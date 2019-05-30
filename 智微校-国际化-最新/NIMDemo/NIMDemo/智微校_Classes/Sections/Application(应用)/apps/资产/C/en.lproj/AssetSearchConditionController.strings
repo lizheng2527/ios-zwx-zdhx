@@ -1,0 +1,66 @@
+
+/* Class = "UITextField"; placeholder = "编码"; ObjectID = "5q7-wS-efk"; */
+"5q7-wS-efk.placeholder" = "Code";
+
+/* Class = "UITextField"; placeholder = "名称"; ObjectID = "6ac-dy-rvZ"; */
+"6ac-dy-rvZ.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "型号规格"; ObjectID = "GWD-cY-kaV"; */
+"GWD-cY-kaV.placeholder" = "Specification model";
+
+/* Class = "UILabel"; text = "购置日期"; ObjectID = "Kkf-ov-h2r"; */
+"Kkf-ov-h2r.text" = "Purchase date";
+
+/* Class = "UITextField"; placeholder = "资产类型"; ObjectID = "PcR-kh-dhW"; */
+"PcR-kh-dhW.placeholder" = "Asset type";
+
+/* Class = "UILabel"; text = "存放校区"; ObjectID = "Q6l-W7-yck"; */
+"Q6l-W7-yck.text" = "Storage campus";
+
+/* Class = "UILabel"; text = "型号规格"; ObjectID = "SC1-Ap-f0t"; */
+"SC1-Ap-f0t.text" = "Specification model";
+
+/* Class = "UILabel"; text = "成套"; ObjectID = "URU-A3-q26"; */
+"URU-A3-q26.text" = "Complete set";
+
+/* Class = "UILabel"; text = "资产名称"; ObjectID = "Y76-x8-M6i"; */
+"Y76-x8-M6i.text" = "Asset name";
+
+/* Class = "UIButton"; normalTitle = "查找"; ObjectID = "ZNc-Qa-Xx9"; */
+"ZNc-Qa-Xx9.normalTitle" = "search";
+
+/* Class = "UIButton"; normalTitle = "起始日期"; ObjectID = "aOD-Wn-Fs2"; */
+"aOD-Wn-Fs2.normalTitle" = "Start Date";
+
+/* Class = "UILabel"; text = "资产类型"; ObjectID = "dGS-uU-j8f"; */
+"dGS-uU-j8f.text" = "Asset type";
+
+/* Class = "UILabel"; text = "非成套"; ObjectID = "dyb-bN-QDG"; */
+"dyb-bN-QDG.text" = "Non-set";
+
+/* Class = "UITextField"; placeholder = "资产品牌"; ObjectID = "fjY-92-eH7"; */
+"fjY-92-eH7.placeholder" = "Asset brand";
+
+/* Class = "UITextField"; placeholder = "存放地点"; ObjectID = "fkF-Wi-lbd"; */
+"fkF-Wi-lbd.placeholder" = "Storage location";
+
+/* Class = "UITextField"; placeholder = "存放校区"; ObjectID = "jYJ-Qe-qTO"; */
+"jYJ-Qe-qTO.placeholder" = "Storage campus";
+
+/* Class = "UILabel"; text = "全部"; ObjectID = "nQ7-e8-UuU"; */
+"nQ7-e8-UuU.text" = "All";
+
+/* Class = "UILabel"; text = "存放地点"; ObjectID = "pZP-Ew-osl"; */
+"pZP-Ew-osl.text" = "Storage location";
+
+/* Class = "UILabel"; text = "资产品牌"; ObjectID = "s6O-V6-fWf"; */
+"s6O-V6-fWf.text" = "Asset brand";
+
+/* Class = "UILabel"; text = "至"; ObjectID = "tay-mi-p8S"; */
+"tay-mi-p8S.text" = "To";
+
+/* Class = "UILabel"; text = "资产编码"; ObjectID = "wwo-iC-YEH"; */
+"wwo-iC-YEH.text" = "Asset code";
+
+/* Class = "UIButton"; normalTitle = "结束日期"; ObjectID = "y6C-YY-FEG"; */
+"y6C-YY-FEG.normalTitle" = "End Date";

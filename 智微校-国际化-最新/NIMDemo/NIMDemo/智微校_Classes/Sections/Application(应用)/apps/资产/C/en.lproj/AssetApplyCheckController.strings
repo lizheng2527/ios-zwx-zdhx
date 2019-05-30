@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "通过"; ObjectID = "1x6-NO-xwK"; */
+"1x6-NO-xwK.text" = "pass";
+
+/* Class = "UILabel"; text = "*审核状态:"; ObjectID = "JEf-Gd-L5n"; */
+"JEf-Gd-L5n.text" = "*ApprovalStatus:";
+
+/* Class = "UILabel"; text = "说明/原因:"; ObjectID = "Nml-TQ-w2r"; */
+"Nml-TQ-w2r.text" = "Reason:";
+
+/* Class = "UILabel"; text = "不通过"; ObjectID = "nBD-CU-te5"; */
+"nBD-CU-te5.text" = "notPass";
+
+/* Class = "UIButton"; normalTitle = "提交审核"; ObjectID = "p2s-au-D4s"; */
+"p2s-au-D4s.normalTitle" = "Submit Review";

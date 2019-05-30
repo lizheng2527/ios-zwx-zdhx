@@ -1,0 +1,6 @@
+
+/* Class = "UILabel"; text = "报修物品:"; ObjectID = "a2c-Tl-eSJ"; */
+"a2c-Tl-eSJ.text" = "Repair item:";
+
+/* Class = "UILabel"; text = "故障描述:"; ObjectID = "hfg-vw-2h8"; */
+"hfg-vw-2h8.text" = "Fault description:";

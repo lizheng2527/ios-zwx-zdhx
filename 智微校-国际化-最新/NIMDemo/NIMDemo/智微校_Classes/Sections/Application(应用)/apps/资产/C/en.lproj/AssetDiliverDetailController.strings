@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "null"; ObjectID = "1fP-Wb-t9P"; */
+"1fP-Wb-t9P.text" = "null";
+
+/* Class = "UILabel"; text = "    发放资产列表"; ObjectID = "Hat-a4-vpv"; */
+"Hat-a4-vpv.text" = "    Issue asset list";
+
+/* Class = "UILabel"; text = "使用人:"; ObjectID = "U4n-7c-KhZ"; */
+"U4n-7c-KhZ.text" = "user:";
+
+/* Class = "UILabel"; text = "接收部门:"; ObjectID = "eDN-sQ-gdS"; */
+"eDN-sQ-gdS.text" = "Receiving department:";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "m01-8a-BAz"; */
+"m01-8a-BAz.text" = "null";

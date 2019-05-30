@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "领用类型:"; ObjectID = "2K9-RG-wxk"; */
+"2K9-RG-wxk.text" = "Requisition type:";
+
+/* Class = "UILabel"; text = "申领原因:"; ObjectID = "2sz-le-SGx"; */
+"2sz-le-SGx.text" = "Claim reason :";
+
+/* Class = "UILabel"; text = "备        注:"; ObjectID = "5G7-US-6R5"; */
+"5G7-US-6R5.text" = "Remarks:";
+
+/* Class = "UITextField"; placeholder = "选填"; ObjectID = "94g-es-bXa"; */
+"94g-es-bXa.placeholder" = "Optional";
+
+/* Class = "UITextField"; placeholder = "必填"; ObjectID = "N02-0F-0ve"; */
+"N02-0F-0ve.placeholder" = "Required";
+
+/* Class = "UILabel"; text = "申领部门:"; ObjectID = "Omz-ge-Ytz"; */
+"Omz-ge-Ytz.text" = "Claim department:";
+
+/* Class = "UILabel"; text = "申领单号:"; ObjectID = "YtU-0H-D01"; */
+"YtU-0H-D01.text" = "Claim number:";
+
+/* Class = "UILabel"; text = "申领日期:"; ObjectID = "ctI-Zy-xj6"; */
+"ctI-Zy-xj6.text" = "Claim date:";
+
+/* Class = "UILabel"; text = "部门审核人:"; ObjectID = "egG-mJ-heQ"; */
+"egG-mJ-heQ.text" = "Department reviewer:";
+
+/* Class = "UITextField"; placeholder = "选填"; ObjectID = "wfJ-dz-Z3x"; */
+"wfJ-dz-Z3x.placeholder" = "Optional";

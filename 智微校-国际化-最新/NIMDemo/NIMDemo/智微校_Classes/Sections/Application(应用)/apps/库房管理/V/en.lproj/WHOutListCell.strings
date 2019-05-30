@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "发放"; ObjectID = "0o5-am-DmA"; */
+"0o5-am-DmA.normalTitle" = "Issue";
+
+/* Class = "UILabel"; text = "状态"; ObjectID = "HMp-dY-Scb"; */
+"HMp-dY-Scb.text" = "Status";
+
+/* Class = "UILabel"; text = "申领单号:"; ObjectID = "JGl-i7-R9D"; */
+"JGl-i7-R9D.text" = "Claim number:";
+
+/* Class = "UILabel"; text = "申请日期:"; ObjectID = "hjI-ry-cPf"; */
+"hjI-ry-cPf.text" = "Date of Application:";
+
+/* Class = "UILabel"; text = "申领部门:"; ObjectID = "neG-EH-ppd"; */
+"neG-EH-ppd.text" = "Claim department:";
+
+/* Class = "UIButton"; normalTitle = "查看"; ObjectID = "qfg-1l-pRo"; */
+"qfg-1l-pRo.normalTitle" = "View";
+
+/* Class = "UILabel"; text = "审核状态:"; ObjectID = "raJ-mF-dLD"; */
+"raJ-mF-dLD.text" = "Approval Status:";
+
+/* Class = "UILabel"; text = "领用类型:"; ObjectID = "veA-gX-zd8"; */
+"veA-gX-zd8.text" = "Requisition type:";

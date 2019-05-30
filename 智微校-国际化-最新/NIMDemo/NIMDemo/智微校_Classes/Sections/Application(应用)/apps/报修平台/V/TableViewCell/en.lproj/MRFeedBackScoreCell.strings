@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "建         议:"; ObjectID = "03O-tU-InI"; */
+"03O-tU-InI.text" = "Suggest:";
+
+/* Class = "UILabel"; text = "是否修好:"; ObjectID = "A5H-F3-igY"; */
+"A5H-F3-igY.text" = "Is it repaired:";
+
+/* Class = "UILabel"; text = "是"; ObjectID = "N5i-kC-jho"; */
+"N5i-kC-jho.text" = "Yes";
+
+/* Class = "UILabel"; text = "维修质量:"; ObjectID = "Qgf-Dk-PGC"; */
+"Qgf-Dk-PGC.text" = "Maintenance quality:";
+
+/* Class = "UILabel"; text = "服务态度:"; ObjectID = "c6h-ws-hSz"; */
+"c6h-ws-hSz.text" = "Service attitude:";
+
+/* Class = "UILabel"; text = "整体评价:"; ObjectID = "cSp-ry-hTP"; */
+"cSp-ry-hTP.text" = "Overall evaluation:";
+
+/* Class = "UILabel"; text = "响应速度:"; ObjectID = "fap-4k-6hd"; */
+"fap-4k-6hd.text" = "responding speed:";
+
+/* Class = "UILabel"; text = "否"; ObjectID = "kMW-cF-tk6"; */
+"kMW-cF-tk6.text" = "No";
+
+/* Class = "UILabel"; text = "报修人评价"; ObjectID = "mrk-xt-pJ1"; */
+"mrk-xt-pJ1.text" = "Reporter's evaluation";
+
+/* Class = "UILabel"; text = "技术水平:"; ObjectID = "yRR-Ko-xLb"; */
+"yRR-Ko-xLb.text" = "techinque level:";

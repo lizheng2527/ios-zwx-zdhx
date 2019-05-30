@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "资产类别:"; ObjectID = "AJQ-RJ-eVA"; */
+"AJQ-RJ-eVA.text" = "Asset type:";
+
+/* Class = "UILabel"; text = "资产编码:"; ObjectID = "FVh-u9-ld3"; */
+"FVh-u9-ld3.text" = "Asset code:";
+
+/* Class = "UILabel"; text = "借用日期:"; ObjectID = "ITx-x3-PBg"; */
+"ITx-x3-PBg.text" = "Borrow date:";
+
+/* Class = "UILabel"; text = "资产名称:"; ObjectID = "Jt4-iW-RpC"; */
+"Jt4-iW-RpC.text" = "Asset Name:";
+
+/* Class = "UIButton"; normalTitle = "添加"; ObjectID = "Y0l-7W-btP"; */
+"Y0l-7W-btP.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "型号规格:"; ObjectID = "czH-Qg-fgQ"; */
+"czH-Qg-fgQ.text" = "Model specification:";
+
+/* Class = "UIButton"; normalTitle = "查看"; ObjectID = "ngP-xu-Dad"; */
+"ngP-xu-Dad.normalTitle" = "View";

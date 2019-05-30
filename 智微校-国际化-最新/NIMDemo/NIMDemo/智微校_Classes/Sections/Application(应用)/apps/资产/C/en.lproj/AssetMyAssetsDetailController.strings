@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "    发放资产列表"; ObjectID = "7L3-0T-EfS"; */
+"7L3-0T-EfS.text" = "    Issue asset list";
+
+/* Class = "UILabel"; text = "发放日期:"; ObjectID = "A0Y-z3-P2V"; */
+"A0Y-z3-P2V.text" = "Date of issue:";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "K8O-uP-RJr"; */
+"K8O-uP-RJr.text" = "null";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "NWS-ZU-Xmu"; */
+"NWS-ZU-Xmu.text" = "null";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "QJ8-gp-oeK"; */
+"QJ8-gp-oeK.text" = "null";
+
+/* Class = "UILabel"; text = "发放人:"; ObjectID = "bSK-eY-wzJ"; */
+"bSK-eY-wzJ.text" = "Issuer:";
+
+/* Class = "UILabel"; text = "接收部门:"; ObjectID = "k8D-dz-6BG"; */
+"k8D-dz-6BG.text" = "Receiving department:";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "kRn-nc-arw"; */
+"kRn-nc-arw.text" = "null";
+
+/* Class = "UILabel"; text = "使用人:"; ObjectID = "tMW-eW-p9f"; */
+"tMW-eW-p9f.text" = "User:";

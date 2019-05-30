@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "发放日期:"; ObjectID = "711-Tg-PFb"; */
+"711-Tg-PFb.text" = "Date of issue:";
+
+/* Class = "UILabel"; text = "使用人:"; ObjectID = "Wk5-Ge-mbU"; */
+"Wk5-Ge-mbU.text" = "User:";
+
+/* Class = "UIButton"; normalTitle = "补签"; ObjectID = "ZtQ-B2-jxo"; */
+"ZtQ-B2-jxo.normalTitle" = "Supplement";
+
+/* Class = "UILabel"; text = "接收部门:"; ObjectID = "aQ2-4P-Vrq"; */
+"aQ2-4P-Vrq.text" = "Receiving department:";
+
+/* Class = "UIButton"; normalTitle = "查看"; ObjectID = "aho-AR-wRz"; */
+"aho-AR-wRz.normalTitle" = "View";
+
+/* Class = "UILabel"; text = "是否签字:"; ObjectID = "k7C-dl-Bin"; */
+"k7C-dl-Bin.text" = "Whether to sign:";
+
+/* Class = "UILabel"; text = "发放人:"; ObjectID = "o3R-Or-SpO"; */
+"o3R-Or-SpO.text" = "Issuer:";

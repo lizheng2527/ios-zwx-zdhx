@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "被申请校区:"; ObjectID = "HPF-NH-z6h"; */
+"HPF-NH-z6h.text" = "Applicable campus:";
+
+/* Class = "UILabel"; text = "状态:"; ObjectID = "LTF-EE-T2f"; */
+"LTF-EE-T2f.text" = "Status:";
+
+/* Class = "UILabel"; text = "使用人:"; ObjectID = "PqY-Lk-y0z"; */
+"PqY-Lk-y0z.text" = "User:";
+
+/* Class = "UILabel"; text = "申请部门:"; ObjectID = "g01-JE-n2S"; */
+"g01-JE-n2S.text" = "Application sector:";
+
+/* Class = "UILabel"; text = "配置说明:"; ObjectID = "hY7-1V-XnZ"; */
+"hY7-1V-XnZ.text" = "Configuration instructions:";
+
+/* Class = "UILabel"; text = "审核说明:"; ObjectID = "qjm-ui-QVS"; */
+"qjm-ui-QVS.text" = "Review instructions:";
+
+/* Class = "UILabel"; text = "申请日期:"; ObjectID = "tI1-tN-qHZ"; */
+"tI1-tN-qHZ.text" = "Date of Application:";
+
+/* Class = "UILabel"; text = "用途说明:"; ObjectID = "w6L-rK-6hz"; */
+"w6L-rK-6hz.text" = "Description of use:";
+
+/* Class = "UILabel"; text = "资产类别:"; ObjectID = "wyi-94-pjI"; */
+"wyi-94-pjI.text" = "Asset Class:";

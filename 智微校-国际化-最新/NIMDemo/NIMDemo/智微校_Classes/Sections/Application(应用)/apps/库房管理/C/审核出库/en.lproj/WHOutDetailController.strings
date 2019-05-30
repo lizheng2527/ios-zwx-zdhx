@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "出库仓库:"; ObjectID = "27P-iK-jUD"; */
+"27P-iK-jUD.text" = "Outbound warehouse:";
+
+/* Class = "UILabel"; text = "出库日期:"; ObjectID = "2SU-gs-MwP"; */
+"2SU-gs-MwP.text" = "Outbound date:";
+
+/* Class = "UILabel"; text = "申  领  人:"; ObjectID = "AIw-gj-IVR"; */
+"AIw-gj-IVR.text" = "Applicant:";
+
+/* Class = "UILabel"; text = "出库单号:"; ObjectID = "adV-SQ-g9Z"; */
+"adV-SQ-g9Z.text" = "Outbound Code:";
+
+/* Class = "UILabel"; text = "领用人签字:"; ObjectID = "cGN-i1-Kgl"; */
+"cGN-i1-Kgl.text" = "Signature of the recipient:";
+
+/* Class = "UILabel"; text = "领用类型:"; ObjectID = "gfA-Tr-0iH"; */
+"gfA-Tr-0iH.text" = "Requisition type:";

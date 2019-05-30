@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "无"; ObjectID = "0wr-Te-gtf"; */
+"0wr-Te-gtf.text" = "no";
+
+/* Class = "UILabel"; text = "维修信息"; ObjectID = "11c-fC-10Q"; */
+"11c-fC-10Q.text" = "Repair information";
+
+/* Class = "UILabel"; text = "无"; ObjectID = "3RF-IQ-LIK"; */
+"3RF-IQ-LIK.text" = "no";
+
+/* Class = "UILabel"; text = "无"; ObjectID = "4Fi-ek-7Xs"; */
+"4Fi-ek-7Xs.text" = "no";
+
+/* Class = "UILabel"; text = "无"; ObjectID = "5Yt-Mu-985"; */
+"5Yt-Mu-985.text" = "no";
+
+/* Class = "UILabel"; text = "配件明细:"; ObjectID = "PXb-A0-QlY"; */
+"PXb-A0-QlY.text" = "Accessories details:";
+
+/* Class = "UILabel"; text = "维修时间:"; ObjectID = "Piz-dz-dWa"; */
+"Piz-dz-dWa.text" = "Repair time:";
+
+/* Class = "UILabel"; text = "故障类型:"; ObjectID = "XY9-V5-pZA"; */
+"XY9-V5-pZA.text" = "Fault type:";
+
+/* Class = "UILabel"; text = "未接单"; ObjectID = "Y2S-BY-dpL"; */
+"Y2S-BY-dpL.text" = "Missed order";
+
+/* Class = "UILabel"; text = "故障原因:"; ObjectID = "fMe-mW-QvW"; */
+"fMe-mW-QvW.text" = "Fault reason:";
+
+/* Class = "UILabel"; text = "无"; ObjectID = "nEy-1W-AkL"; */
+"nEy-1W-AkL.text" = "no";
+
+/* Class = "UILabel"; text = "维  修  人:"; ObjectID = "oSj-oq-Vtl"; */
+"oSj-oq-Vtl.text" = "Repair man:";
+
+/* Class = "UILabel"; text = "无"; ObjectID = "s7h-fa-bwu"; */
+"s7h-fa-bwu.text" = "no";
+
+/* Class = "UILabel"; text = "配件费用:"; ObjectID = "vxy-2i-tew"; */
+"vxy-2i-tew.text" = "Accessories cost:";

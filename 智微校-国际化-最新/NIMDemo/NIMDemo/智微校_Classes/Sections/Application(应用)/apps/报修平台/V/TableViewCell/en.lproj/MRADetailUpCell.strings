@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "报修物品:"; ObjectID = "7On-qp-gd1"; */
+"7On-qp-gd1.text" = "Repair item:";
+
+/* Class = "UILabel"; text = "故障描述:"; ObjectID = "ASv-4M-AGi"; */
+"ASv-4M-AGi.text" = "Fault description:";
+
+/* Class = "UILabel"; text = "报修信息"; ObjectID = "NbC-TZ-Cre"; */
+"NbC-TZ-Cre.text" = "Repair information";
+
+/* Class = "UILabel"; text = "报修时间:"; ObjectID = "bEF-LG-CDU"; */
+"bEF-LG-CDU.text" = "Repair time:";
+
+/* Class = "UILabel"; text = "故障地点:"; ObjectID = "fp2-9d-oOp"; */
+"fp2-9d-oOp.text" = "Fault location:";
+
+/* Class = "UILabel"; text = "联系电话:"; ObjectID = "reR-U7-KLV"; */
+"reR-U7-KLV.text" = "Contact number:";
+
+/* Class = "UILabel"; text = "报  修  人:"; ObjectID = "xqF-N3-r5b"; */
+"xqF-N3-r5b.text" = "Reporter:";

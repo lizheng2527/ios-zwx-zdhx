@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "50S-EP-05H"; */
+"50S-EP-05H.normalTitle" = "Clear";
+
+/* Class = "UIButton"; normalTitle = "保存"; ObjectID = "AHw-jH-U8m"; */
+"AHw-jH-U8m.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "签字板"; ObjectID = "Y3z-Ne-ADA"; */
+"Y3z-Ne-ADA.text" = "Signature board";
+
+/* Class = "UIButton"; normalTitle = "返回"; ObjectID = "lEK-02-yeF"; */
+"lEK-02-yeF.normalTitle" = "Back";

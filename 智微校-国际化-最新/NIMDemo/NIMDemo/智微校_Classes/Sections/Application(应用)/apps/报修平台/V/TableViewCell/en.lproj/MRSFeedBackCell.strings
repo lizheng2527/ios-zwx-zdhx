@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "维修信息"; ObjectID = "51u-87-HBL"; */
+"51u-87-HBL.text" = "Maintenance information";
+
+/* Class = "UILabel"; text = "已修好"; ObjectID = "8BB-Po-EiW"; */
+"8BB-Po-EiW.text" = "Fixed";
+
+/* Class = "UILabel"; text = "不能维修"; ObjectID = "P1M-rO-fhb"; */
+"P1M-rO-fhb.text" = "Unable to repair";
+
+/* Class = "UILabel"; text = "故障原因:"; ObjectID = "bUu-2Q-c05"; */
+"bUu-2Q-c05.text" = "Fault reson:";
+
+/* Class = "UILabel"; text = "人为损坏"; ObjectID = "hgm-wf-nHI"; */
+"hgm-wf-nHI.text" = "Man-made damage";
+
+/* Class = "UILabel"; text = "自然损坏"; ObjectID = "piP-oQ-Cyg"; */
+"piP-oQ-Cyg.text" = "Natural damage";
+
+/* Class = "UILabel"; text = "故障类型:"; ObjectID = "qAV-vb-deu"; */
+"qAV-vb-deu.text" = "Fault type:";
+
+/* Class = "UILabel"; text = "维  修  人:"; ObjectID = "z6i-yy-39i"; */
+"z6i-yy-39i.text" = "Repair man:";
+
+/* Class = "UILabel"; text = "维修状态:"; ObjectID = "zle-oh-Ie9"; */
+"zle-oh-Ie9.text" = "Maintenance status:";

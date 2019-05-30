@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "点击选择"; ObjectID = "ExG-uS-qa0"; */
+"ExG-uS-qa0.normalTitle" = "Click to select";
+
+/* Class = "UILabel"; text = "出库仓库:"; ObjectID = "FjW-E2-ht4"; */
+"FjW-E2-ht4.text" = "Outbound warehouse:";
+
+/* Class = "UILabel"; text = "出库日期:"; ObjectID = "J0n-jw-ceo"; */
+"J0n-jw-ceo.text" = "Outbound date:";
+
+/* Class = "UILabel"; text = "制 单 人:"; ObjectID = "Npb-Uz-epf"; */
+"Npb-Uz-epf.text" = "Prepared by:";
+
+/* Class = "UILabel"; text = "领用类型:"; ObjectID = "bi5-oB-SBE"; */
+"bi5-oB-SBE.text" = "Requisition type:";
+
+/* Class = "UILabel"; text = "制单日期:"; ObjectID = "fyO-pA-cFZ"; */
+"fyO-pA-cFZ.text" = "Billing date:";
+
+/* Class = "UITextField"; placeholder = "选填"; ObjectID = "gE7-T2-6r0"; */
+"gE7-T2-6r0.placeholder" = "Optional";
+
+/* Class = "UILabel"; text = "领 用 人:"; ObjectID = "gEo-zP-Cid"; */
+"gEo-zP-Cid.text" = "Employer:";
+
+/* Class = "UILabel"; text = " 备    注 :"; ObjectID = "haD-yC-6NV"; */
+"haD-yC-6NV.text" = " Remarks :";
+
+/* Class = "UILabel"; text = "出库单号:"; ObjectID = "mei-zd-xsS"; */
+"mei-zd-xsS.text" = "Outbound code:";

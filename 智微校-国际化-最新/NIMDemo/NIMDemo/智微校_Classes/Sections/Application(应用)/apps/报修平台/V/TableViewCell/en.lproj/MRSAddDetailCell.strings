@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "小计 (元):"; ObjectID = "4dc-Or-waE"; */
+"4dc-Or-waE.text" = "Subtotal (¥):";
+
+/* Class = "UILabel"; text = "数量 (个):"; ObjectID = "51R-UK-YJL"; */
+"51R-UK-YJL.text" = "Quantity (piece):";
+
+/* Class = "UITextField"; text = "0.0元"; ObjectID = "FDl-cK-TlT"; */
+"FDl-cK-TlT.text" = "0.0¥";
+
+/* Class = "UILabel"; text = "单价 (元):"; ObjectID = "QYq-h4-LbH"; */
+"QYq-h4-LbH.text" = "Unit price (¥):";
+
+/* Class = "UILabel"; text = "配件名称:"; ObjectID = "RF9-mX-cTe"; */
+"RF9-mX-cTe.text" = "Accessory name:";
+
+/* Class = "UILabel"; text = "  配件明细"; ObjectID = "c92-og-XIm"; */
+"c92-og-XIm.text" = "  Accessories details";

@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "报  修  人:"; ObjectID = "EoP-E2-qVe"; */
+"EoP-E2-qVe.text" = "Reporter:";
+
+/* Class = "UILabel"; text = "报修物品:"; ObjectID = "LZb-ik-k78"; */
+"LZb-ik-k78.text" = "Repair item:";
+
+/* Class = "UIButton"; normalTitle = "查看"; ObjectID = "V5d-xa-XQK"; */
+"V5d-xa-XQK.normalTitle" = "View";
+
+/* Class = "UIButton"; normalTitle = "费用审批"; ObjectID = "aHK-vJ-fZ8"; */
+"aHK-vJ-fZ8.normalTitle" = "Approval";
+
+/* Class = "UILabel"; text = "故障地点:"; ObjectID = "as0-X3-47W"; */
+"as0-X3-47W.text" = "Fault location:";
+
+/* Class = "UIButton"; normalTitle = "派单"; ObjectID = "cNO-0f-5EC"; */
+"cNO-0f-5EC.normalTitle" = "Order";
+
+/* Class = "UILabel"; text = "故障现象:"; ObjectID = "ltb-aJ-X3g"; */
+"ltb-aJ-X3g.text" = "Fault description:";
+
+/* Class = "UILabel"; text = "维修状态"; ObjectID = "pYf-E6-xUY"; */
+"pYf-E6-xUY.text" = "Maintenance status";
+
+/* Class = "UILabel"; text = "联系电话:"; ObjectID = "siD-lz-v7p"; */
+"siD-lz-v7p.text" = "Contact number:";

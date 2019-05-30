@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; placeholder = "用户名"; ObjectID = "0L8-yi-TIo"; */
+"0L8-yi-TIo.placeholder" = "UserName";
+
+/* Class = "UIButton"; normalTitle = "忘记密码?"; ObjectID = "7Ho-oG-DaZ"; */
+"7Ho-oG-DaZ.normalTitle" = "Forget PW?";
+
+/* Class = "UIButton"; normalTitle = "机构选择"; ObjectID = "Fn0-wp-oeI"; */
+"Fn0-wp-oeI.normalTitle" = "School Choose";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "rlm-bx-Eke"; */
+"rlm-bx-Eke.placeholder" = "PW";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "x5U-t9-17a"; */
+"x5U-t9-17a.normalTitle" = "Login";

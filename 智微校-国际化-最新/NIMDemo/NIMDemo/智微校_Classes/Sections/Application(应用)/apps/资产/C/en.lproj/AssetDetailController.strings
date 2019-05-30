@@ -1,0 +1,81 @@
+
+/* Class = "UILabel"; text = "增加日期:"; ObjectID = "1EW-EV-evZ"; */
+"1EW-EV-evZ.text" = "Increase date:";
+
+/* Class = "UILabel"; text = "库存编号:"; ObjectID = "210-0Z-bga"; */
+"210-0Z-bga.text" = "Stock number:";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "30f-op-gye"; */
+"30f-op-gye.text" = "null";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "3zE-K0-O9o"; */
+"3zE-K0-O9o.text" = "null";
+
+/* Class = "UILabel"; text = "资产编码:"; ObjectID = "9gX-0f-Zmi"; */
+"9gX-0f-Zmi.text" = "Asset code:";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "ADJ-rT-vzc"; */
+"ADJ-rT-vzc.text" = "null";
+
+/* Class = "UILabel"; text = "保管人:"; ObjectID = "B1w-13-2rM"; */
+"B1w-13-2rM.text" = "custodian:";
+
+/* Class = "UILabel"; text = "单价:"; ObjectID = "BAk-tL-u2g"; */
+"BAk-tL-u2g.text" = "unit price:";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "Cat-Al-s5Q"; */
+"Cat-Al-s5Q.text" = "null";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "Fkb-rX-r7u"; */
+"Fkb-rX-r7u.text" = "null";
+
+/* Class = "UILabel"; text = "所属部门:"; ObjectID = "TbB-GT-gSY"; */
+"TbB-GT-gSY.text" = "Department:";
+
+/* Class = "UILabel"; text = "保修期限:"; ObjectID = "Tnd-Ky-Lcx"; */
+"Tnd-Ky-Lcx.text" = "warranty period:";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "WCL-jj-8oQ"; */
+"WCL-jj-8oQ.text" = "null";
+
+/* Class = "UIButton"; normalTitle = "添加到待发放列表"; ObjectID = "ZJx-HF-GKs"; */
+"ZJx-HF-GKs.normalTitle" = "Add to pending list";
+
+/* Class = "UILabel"; text = "资产名称:"; ObjectID = "aLr-aC-obc"; */
+"aLr-aC-obc.text" = "Asset Name:";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "gRs-7x-adE"; */
+"gRs-7x-adE.text" = "null";
+
+/* Class = "UILabel"; text = "型号规格:"; ObjectID = "hgH-9l-Ej8"; */
+"hgH-9l-Ej8.text" = "Model specification:";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "jJ6-uA-3JU"; */
+"jJ6-uA-3JU.text" = "null";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "kme-rM-CJ5"; */
+"kme-rM-CJ5.text" = "null";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "ojD-hr-lDX"; */
+"ojD-hr-lDX.text" = "null";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "u0S-5w-bCa"; */
+"u0S-5w-bCa.text" = "null";
+
+/* Class = "UILabel"; text = "采购日期:"; ObjectID = "uGK-gr-JUP"; */
+"uGK-gr-JUP.text" = "Purchase date:";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "xMf-7m-api"; */
+"xMf-7m-api.text" = "null";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "y3p-qC-HfN"; */
+"y3p-qC-HfN.text" = "null";
+
+/* Class = "UILabel"; text = "状态:"; ObjectID = "zbo-UV-xRv"; */
+"zbo-UV-xRv.text" = "status:";
+
+/* Class = "UILabel"; text = "资产类别:"; ObjectID = "zdj-GH-uJL"; */
+"zdj-GH-uJL.text" = "Asset Class:";
+
+/* Class = "UILabel"; text = "厂商:"; ObjectID = "zue-nP-cJh"; */
+"zue-nP-cJh.text" = "Vendor:";

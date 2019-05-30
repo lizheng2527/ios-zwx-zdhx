@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "归还部门:"; ObjectID = "93O-S5-K8K"; */
+"93O-S5-K8K.text" = "归还部门:";
+
+/* Class = "UILabel"; text = "归还人:"; ObjectID = "C6D-ID-DWw"; */
+"C6D-ID-DWw.text" = "归还人:";
+
+/* Class = "UILabel"; text = "是否签字:"; ObjectID = "UfO-MT-v6n"; */
+"UfO-MT-v6n.text" = "是否签字:";
+
+/* Class = "UILabel"; text = "归还日期:"; ObjectID = "ZeO-hl-BYv"; */
+"ZeO-hl-BYv.text" = "归还日期:";
+
+/* Class = "UILabel"; text = "经办人:"; ObjectID = "iTz-Lp-XXs"; */
+"iTz-Lp-XXs.text" = "经办人:";
+
+/* Class = "UIButton"; normalTitle = "查看"; ObjectID = "ujZ-hI-bIC"; */
+"ujZ-hI-bIC.normalTitle" = "View";

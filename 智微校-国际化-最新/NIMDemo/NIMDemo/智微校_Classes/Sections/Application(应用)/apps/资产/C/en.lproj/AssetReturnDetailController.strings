@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "null"; ObjectID = "3Kr-vN-xEV"; */
+"3Kr-vN-xEV.text" = "null";
+
+/* Class = "UILabel"; text = "    归还资产列表"; ObjectID = "3px-tM-mA0"; */
+"3px-tM-mA0.text" = "    Return of assets list";
+
+/* Class = "UILabel"; text = "归还部门:"; ObjectID = "G71-kq-mXy"; */
+"G71-kq-mXy.text" = "Return department:";
+
+/* Class = "UILabel"; text = "归还时间:"; ObjectID = "QOo-aU-0UQ"; */
+"QOo-aU-0UQ.text" = "Return time:";
+
+/* Class = "UILabel"; text = "经还人:"; ObjectID = "S1P-7u-u51"; */
+"S1P-7u-u51.text" = "Returning people:";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "glF-Fa-VHf"; */
+"glF-Fa-VHf.text" = "null";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "lJq-1R-EPC"; */
+"lJq-1R-EPC.text" = "null";
+
+/* Class = "UILabel"; text = "null"; ObjectID = "mEN-QR-P14"; */
+"mEN-QR-P14.text" = "null";
+
+/* Class = "UILabel"; text = "经办人:"; ObjectID = "vxi-uG-4H4"; */
+"vxi-uG-4H4.text" = "Manager:";

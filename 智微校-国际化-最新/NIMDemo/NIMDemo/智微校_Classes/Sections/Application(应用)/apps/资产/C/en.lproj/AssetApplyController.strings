@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "审核人"; ObjectID = "1ns-TB-sGW"; */
+"1ns-TB-sGW.text" = "Reviewer";
+
+/* Class = "UITextField"; placeholder = "选填"; ObjectID = "2f0-dk-i9W"; */
+"2f0-dk-i9W.placeholder" = "Optional";
+
+/* Class = "UILabel"; text = "申请日期"; ObjectID = "FD5-0O-iWG"; */
+"FD5-0O-iWG.text" = "Date of Application";
+
+/* Class = "UITextField"; placeholder = "选择资产类型"; ObjectID = "Kpo-hg-8Aw"; */
+"Kpo-hg-8Aw.placeholder" = "Select asset type";
+
+/* Class = "UILabel"; text = "申请校区"; ObjectID = "RLQ-r3-rCJ"; */
+"RLQ-r3-rCJ.text" = "Apply for campus";
+
+/* Class = "UITextField"; placeholder = "选择被申请校区"; ObjectID = "Vtk-wb-lrN"; */
+"Vtk-wb-lrN.placeholder" = "Choose the campus to be applied for";
+
+/* Class = "UITextField"; placeholder = "选择申请部门"; ObjectID = "Xsi-Ij-3Qx"; */
+"Xsi-Ij-3Qx.placeholder" = "Select application department";
+
+/* Class = "UILabel"; text = "配置说明"; ObjectID = "bcz-Un-pvT"; */
+"bcz-Un-pvT.text" = "Configuration instructions";
+
+/* Class = "UITextField"; placeholder = "选择审核人"; ObjectID = "dGq-V7-AfO"; */
+"dGq-V7-AfO.placeholder" = "Select reviewer";
+
+/* Class = "UILabel"; text = "申请部门"; ObjectID = "fvX-nR-ec1"; */
+"fvX-nR-ec1.text" = "Application sector";
+
+/* Class = "UIButton"; normalTitle = "提交申请单"; ObjectID = "jMR-47-ARU"; */
+"jMR-47-ARU.normalTitle" = "Submit an application form";
+
+/* Class = "UITextField"; placeholder = "选填"; ObjectID = "oaj-a9-Hhr"; */
+"oaj-a9-Hhr.placeholder" = "Optional";
+
+/* Class = "UILabel"; text = "用途说明"; ObjectID = "ooX-kt-xF0"; */
+"ooX-kt-xF0.text" = "Description of use";
+
+/* Class = "UILabel"; text = "资产类型"; ObjectID = "qI4-ax-YsJ"; */
+"qI4-ax-YsJ.text" = "Asset type";
+
+/* Class = "UITextField"; placeholder = "选择使用资产日期"; ObjectID = "xNq-5A-jFL"; */
+"xNq-5A-jFL.placeholder" = "Choose to use asset date";
