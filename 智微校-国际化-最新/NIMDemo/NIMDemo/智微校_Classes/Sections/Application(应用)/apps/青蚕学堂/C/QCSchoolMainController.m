@@ -12,7 +12,9 @@
 #import "QCSchoolMainItemCell.h"
 #import "QCSchoolCommonHeaderView.h"
 #import "QCSSourceHandler.h"
+//#import "SDCycleScrollView.h"
 #import "SDCycleScrollView.h"
+
 #import "QCSNetHelper.h"
 
 #import "qcsStudyAnalyticsMainController.h"

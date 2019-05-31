@@ -191,6 +191,13 @@
 		E48D25C91EBB118500078BCD /* NTESAVNotifier.m in Sources */ = {isa = PBXBuildFile; fileRef = E48D25C81EBB118500078BCD /* NTESAVNotifier.m */; };
 		E49D53C11B451C7400A869AC /* NSData+NTES.m in Sources */ = {isa = PBXBuildFile; fileRef = E49D53C01B451C7400A869AC /* NSData+NTES.m */; };
 		E4ED12DD1B6B07EA00316496 /* message.wav in Resources */ = {isa = PBXBuildFile; fileRef = E4ED12DC1B6B07EA00316496 /* message.wav */; };
+		EE05AF4322A0FAAE001AC255 /* SDCycleScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = EE05AF3722A0FAAE001AC255 /* SDCycleScrollView.m */; };
+		EE05AF4422A0FAAE001AC255 /* UIView+SDExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = EE05AF3822A0FAAE001AC255 /* UIView+SDExtension.m */; };
+		EE05AF4522A0FAAE001AC255 /* SDCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EE05AF3922A0FAAE001AC255 /* SDCollectionViewCell.m */; };
+		EE05AF4622A0FAAE001AC255 /* TADotView.m in Sources */ = {isa = PBXBuildFile; fileRef = EE05AF3C22A0FAAE001AC255 /* TADotView.m */; };
+		EE05AF4722A0FAAE001AC255 /* TAPageControl.m in Sources */ = {isa = PBXBuildFile; fileRef = EE05AF3D22A0FAAE001AC255 /* TAPageControl.m */; };
+		EE05AF4822A0FAAE001AC255 /* TAAnimatedDotView.m in Sources */ = {isa = PBXBuildFile; fileRef = EE05AF3E22A0FAAE001AC255 /* TAAnimatedDotView.m */; };
+		EE05AF4922A0FAAE001AC255 /* TAAbstractDotView.m in Sources */ = {isa = PBXBuildFile; fileRef = EE05AF3F22A0FAAE001AC255 /* TAAbstractDotView.m */; };
 		EE0BDBCB2091C22400AAD516 /* qcsStudyAnalyticsMainController.m in Sources */ = {isa = PBXBuildFile; fileRef = EE0BDBCA2091C22400AAD516 /* qcsStudyAnalyticsMainController.m */; };
 		EE0BDBCF2091C27700AAD516 /* qcsStudyAnalyticsInsideController.m in Sources */ = {isa = PBXBuildFile; fileRef = EE0BDBCD2091C27700AAD516 /* qcsStudyAnalyticsInsideController.m */; };
 		EE0BDBD02091C27700AAD516 /* qcsStudyAnalyticsInsideController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EE0BDBCE2091C27700AAD516 /* qcsStudyAnalyticsInsideController.xib */; };
@@ -326,13 +333,6 @@
 		EE3FFC552079AE48004CD2A9 /* qcsClassReviewInsideController.m in Sources */ = {isa = PBXBuildFile; fileRef = EE3FFC532079AE48004CD2A9 /* qcsClassReviewInsideController.m */; };
 		EE3FFC562079AE48004CD2A9 /* qcsClassReviewInsideController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EE3FFC542079AE48004CD2A9 /* qcsClassReviewInsideController.xib */; };
 		EE3FFC592079AF10004CD2A9 /* QCSHomeLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = EE3FFC582079AF10004CD2A9 /* QCSHomeLabel.m */; };
-		EE3FFC6A2079B01B004CD2A9 /* TAAbstractDotView.m in Sources */ = {isa = PBXBuildFile; fileRef = EE3FFC5D2079B01B004CD2A9 /* TAAbstractDotView.m */; };
-		EE3FFC6B2079B01B004CD2A9 /* TAAnimatedDotView.m in Sources */ = {isa = PBXBuildFile; fileRef = EE3FFC5F2079B01B004CD2A9 /* TAAnimatedDotView.m */; };
-		EE3FFC6C2079B01B004CD2A9 /* TADotView.m in Sources */ = {isa = PBXBuildFile; fileRef = EE3FFC612079B01B004CD2A9 /* TADotView.m */; };
-		EE3FFC6D2079B01B004CD2A9 /* TAPageControl.m in Sources */ = {isa = PBXBuildFile; fileRef = EE3FFC632079B01B004CD2A9 /* TAPageControl.m */; };
-		EE3FFC6E2079B01B004CD2A9 /* SDCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EE3FFC652079B01B004CD2A9 /* SDCollectionViewCell.m */; };
-		EE3FFC6F2079B01B004CD2A9 /* SDCycleScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = EE3FFC672079B01B004CD2A9 /* SDCycleScrollView.m */; };
-		EE3FFC702079B01B004CD2A9 /* UIView+SDExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = EE3FFC692079B01B004CD2A9 /* UIView+SDExtension.m */; };
 		EE3FFC742079CF83004CD2A9 /* qcsClassReviewInsideClassCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EE3FFC722079CF83004CD2A9 /* qcsClassReviewInsideClassCell.m */; };
 		EE3FFC752079CF83004CD2A9 /* qcsClassReviewInsideClassCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = EE3FFC732079CF83004CD2A9 /* qcsClassReviewInsideClassCell.xib */; };
 		EE3FFC792079CF96004CD2A9 /* qcsClassReviewInsideStudentCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EE3FFC772079CF96004CD2A9 /* qcsClassReviewInsideStudentCell.m */; };
@@ -1388,6 +1388,20 @@
 		E4E8D98F1BB131F20077AE60 /* nim_debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = nim_debug.xcconfig; sourceTree = "<group>"; };
 		E4E8D9901BB132040077AE60 /* nim_release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = nim_release.xcconfig; sourceTree = "<group>"; };
 		E4ED12DC1B6B07EA00316496 /* message.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = message.wav; sourceTree = "<group>"; };
+		EE05AF3422A0FAAE001AC255 /* UIView+SDExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+SDExtension.h"; sourceTree = "<group>"; };
+		EE05AF3522A0FAAE001AC255 /* SDCycleScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDCycleScrollView.h; sourceTree = "<group>"; };
+		EE05AF3622A0FAAE001AC255 /* SDCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDCollectionViewCell.h; sourceTree = "<group>"; };
+		EE05AF3722A0FAAE001AC255 /* SDCycleScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDCycleScrollView.m; sourceTree = "<group>"; };
+		EE05AF3822A0FAAE001AC255 /* UIView+SDExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+SDExtension.m"; sourceTree = "<group>"; };
+		EE05AF3922A0FAAE001AC255 /* SDCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDCollectionViewCell.m; sourceTree = "<group>"; };
+		EE05AF3B22A0FAAE001AC255 /* TAAbstractDotView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAAbstractDotView.h; sourceTree = "<group>"; };
+		EE05AF3C22A0FAAE001AC255 /* TADotView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TADotView.m; sourceTree = "<group>"; };
+		EE05AF3D22A0FAAE001AC255 /* TAPageControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAPageControl.m; sourceTree = "<group>"; };
+		EE05AF3E22A0FAAE001AC255 /* TAAnimatedDotView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAAnimatedDotView.m; sourceTree = "<group>"; };
+		EE05AF3F22A0FAAE001AC255 /* TAAbstractDotView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAAbstractDotView.m; sourceTree = "<group>"; };
+		EE05AF4022A0FAAE001AC255 /* TADotView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TADotView.h; sourceTree = "<group>"; };
+		EE05AF4122A0FAAE001AC255 /* TAAnimatedDotView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAAnimatedDotView.h; sourceTree = "<group>"; };
+		EE05AF4222A0FAAE001AC255 /* TAPageControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAPageControl.h; sourceTree = "<group>"; };
 		EE0BDBC92091C22400AAD516 /* qcsStudyAnalyticsMainController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = qcsStudyAnalyticsMainController.h; sourceTree = "<group>"; };
 		EE0BDBCA2091C22400AAD516 /* qcsStudyAnalyticsMainController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = qcsStudyAnalyticsMainController.m; sourceTree = "<group>"; };
 		EE0BDBCC2091C27700AAD516 /* qcsStudyAnalyticsInsideController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = qcsStudyAnalyticsInsideController.h; sourceTree = "<group>"; };
@@ -1615,20 +1629,6 @@
 		EE3FFC542079AE48004CD2A9 /* qcsClassReviewInsideController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = qcsClassReviewInsideController.xib; sourceTree = "<group>"; };
 		EE3FFC572079AF10004CD2A9 /* QCSHomeLabel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QCSHomeLabel.h; sourceTree = "<group>"; };
 		EE3FFC582079AF10004CD2A9 /* QCSHomeLabel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QCSHomeLabel.m; sourceTree = "<group>"; };
-		EE3FFC5C2079B01B004CD2A9 /* TAAbstractDotView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAAbstractDotView.h; sourceTree = "<group>"; };
-		EE3FFC5D2079B01B004CD2A9 /* TAAbstractDotView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAAbstractDotView.m; sourceTree = "<group>"; };
-		EE3FFC5E2079B01B004CD2A9 /* TAAnimatedDotView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAAnimatedDotView.h; sourceTree = "<group>"; };
-		EE3FFC5F2079B01B004CD2A9 /* TAAnimatedDotView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAAnimatedDotView.m; sourceTree = "<group>"; };
-		EE3FFC602079B01B004CD2A9 /* TADotView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TADotView.h; sourceTree = "<group>"; };
-		EE3FFC612079B01B004CD2A9 /* TADotView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TADotView.m; sourceTree = "<group>"; };
-		EE3FFC622079B01B004CD2A9 /* TAPageControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAPageControl.h; sourceTree = "<group>"; };
-		EE3FFC632079B01B004CD2A9 /* TAPageControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAPageControl.m; sourceTree = "<group>"; };
-		EE3FFC642079B01B004CD2A9 /* SDCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDCollectionViewCell.h; sourceTree = "<group>"; };
-		EE3FFC652079B01B004CD2A9 /* SDCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDCollectionViewCell.m; sourceTree = "<group>"; };
-		EE3FFC662079B01B004CD2A9 /* SDCycleScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDCycleScrollView.h; sourceTree = "<group>"; };
-		EE3FFC672079B01B004CD2A9 /* SDCycleScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDCycleScrollView.m; sourceTree = "<group>"; };
-		EE3FFC682079B01B004CD2A9 /* UIView+SDExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+SDExtension.h"; sourceTree = "<group>"; };
-		EE3FFC692079B01B004CD2A9 /* UIView+SDExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+SDExtension.m"; sourceTree = "<group>"; };
 		EE3FFC712079CF83004CD2A9 /* qcsClassReviewInsideClassCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = qcsClassReviewInsideClassCell.h; sourceTree = "<group>"; };
 		EE3FFC722079CF83004CD2A9 /* qcsClassReviewInsideClassCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = qcsClassReviewInsideClassCell.m; sourceTree = "<group>"; };
 		EE3FFC732079CF83004CD2A9 /* qcsClassReviewInsideClassCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = qcsClassReviewInsideClassCell.xib; sourceTree = "<group>"; };
@@ -3726,6 +3726,7 @@
 		834DC5911F18BE1800C9E0B3 /* Vendors */ = {
 			isa = PBXGroup;
 			children = (
+				EE05AF3322A0FAAE001AC255 /* SDCycleScrollView */,
 				830AE54E1F2880EE00BB0AAD /* SVProgressHUD */,
 			);
 			path = Vendors;
@@ -3908,6 +3909,35 @@
 				E48988E71DE42353001CF6C5 /* NTESCellLayoutConfig.m */,
 			);
 			path = LayoutConfig;
+			sourceTree = "<group>";
+		};
+		EE05AF3322A0FAAE001AC255 /* SDCycleScrollView */ = {
+			isa = PBXGroup;
+			children = (
+				EE05AF3422A0FAAE001AC255 /* UIView+SDExtension.h */,
+				EE05AF3522A0FAAE001AC255 /* SDCycleScrollView.h */,
+				EE05AF3622A0FAAE001AC255 /* SDCollectionViewCell.h */,
+				EE05AF3722A0FAAE001AC255 /* SDCycleScrollView.m */,
+				EE05AF3822A0FAAE001AC255 /* UIView+SDExtension.m */,
+				EE05AF3922A0FAAE001AC255 /* SDCollectionViewCell.m */,
+				EE05AF3A22A0FAAE001AC255 /* PageControl */,
+			);
+			path = SDCycleScrollView;
+			sourceTree = "<group>";
+		};
+		EE05AF3A22A0FAAE001AC255 /* PageControl */ = {
+			isa = PBXGroup;
+			children = (
+				EE05AF3B22A0FAAE001AC255 /* TAAbstractDotView.h */,
+				EE05AF3C22A0FAAE001AC255 /* TADotView.m */,
+				EE05AF3D22A0FAAE001AC255 /* TAPageControl.m */,
+				EE05AF3E22A0FAAE001AC255 /* TAAnimatedDotView.m */,
+				EE05AF3F22A0FAAE001AC255 /* TAAbstractDotView.m */,
+				EE05AF4022A0FAAE001AC255 /* TADotView.h */,
+				EE05AF4122A0FAAE001AC255 /* TAAnimatedDotView.h */,
+				EE05AF4222A0FAAE001AC255 /* TAPageControl.h */,
+			);
+			path = PageControl;
 			sourceTree = "<group>";
 		};
 		EE0BDBD62091D2CB00AAD516 /* CWLateralSlide */ = {
@@ -4256,36 +4286,6 @@
 				EE3A679C2011E02A001F1A8E /* KPDropMenu.m */,
 			);
 			path = KPDropMenu;
-			sourceTree = "<group>";
-		};
-		EE3FFC5A2079B01B004CD2A9 /* SDCycleScrollView */ = {
-			isa = PBXGroup;
-			children = (
-				EE3FFC5B2079B01B004CD2A9 /* PageControl */,
-				EE3FFC642079B01B004CD2A9 /* SDCollectionViewCell.h */,
-				EE3FFC652079B01B004CD2A9 /* SDCollectionViewCell.m */,
-				EE3FFC662079B01B004CD2A9 /* SDCycleScrollView.h */,
-				EE3FFC672079B01B004CD2A9 /* SDCycleScrollView.m */,
-				EE3FFC682079B01B004CD2A9 /* UIView+SDExtension.h */,
-				EE3FFC692079B01B004CD2A9 /* UIView+SDExtension.m */,
-			);
-			name = SDCycleScrollView;
-			path = "../../../../../../../../../../../Downloads/SDCycleScrollView-master/SDCycleScrollView/Lib/SDCycleScrollView";
-			sourceTree = "<group>";
-		};
-		EE3FFC5B2079B01B004CD2A9 /* PageControl */ = {
-			isa = PBXGroup;
-			children = (
-				EE3FFC5C2079B01B004CD2A9 /* TAAbstractDotView.h */,
-				EE3FFC5D2079B01B004CD2A9 /* TAAbstractDotView.m */,
-				EE3FFC5E2079B01B004CD2A9 /* TAAnimatedDotView.h */,
-				EE3FFC5F2079B01B004CD2A9 /* TAAnimatedDotView.m */,
-				EE3FFC602079B01B004CD2A9 /* TADotView.h */,
-				EE3FFC612079B01B004CD2A9 /* TADotView.m */,
-				EE3FFC622079B01B004CD2A9 /* TAPageControl.h */,
-				EE3FFC632079B01B004CD2A9 /* TAPageControl.m */,
-			);
-			path = PageControl;
 			sourceTree = "<group>";
 		};
 		EE3FFC7B2079F061004CD2A9 /* 师生互动表 */ = {
@@ -7082,7 +7082,6 @@
 				EE22FCA220B2B321005E26A1 /* VideoHandler */,
 				EE0BDBD62091D2CB00AAD516 /* CWLateralSlide */,
 				EE2E001A207B651A0062AB74 /* LYEmptyView */,
-				EE3FFC5A2079B01B004CD2A9 /* SDCycleScrollView */,
 				EE95F2FF207383F00067F2E2 /* SlideView */,
 			);
 			path = Vendor;
@@ -7710,7 +7709,6 @@
 				EE4202311FFE15400009D064 /* UIViewController+ACMediaExt.m in Sources */,
 				EE42023E1FFE15400009D064 /* REquipmentTypeL2Cell.m in Sources */,
 				EE4201981FFE15400009D064 /* YLGIFImage.m in Sources */,
-				EE3FFC6C2079B01B004CD2A9 /* TADotView.m in Sources */,
 				61E471111B7D963E00F4A1BF /* NTESCustomSysNotificationSender.m in Sources */,
 				EE2E0050207DEE6B0062AB74 /* qcsClassDetailInsideSXBJDetailController.m in Sources */,
 				EE95F3252079A86B0067F2E2 /* qcsClassReviewMainController.m in Sources */,
@@ -7760,7 +7758,6 @@
 				61E471941B7D96AA00F4A1BF /* NTESService.m in Sources */,
 				EE4201A31FFE15400009D064 /* ZLPhotoPickerBrowserViewController.m in Sources */,
 				61E470F61B7D963E00F4A1BF /* NTESColorButtonCell.m in Sources */,
-				EE3FFC6D2079B01B004CD2A9 /* TAPageControl.m in Sources */,
 				EE4203D81FFE15420009D064 /* YMTapGestureRecongnizer.m in Sources */,
 				EE4202CA1FFE15410009D064 /* TakeCourseDetailViewController.m in Sources */,
 				61518A561CA233BB0061C4A9 /* NTESDemoService.m in Sources */,
@@ -7774,7 +7771,6 @@
 				EE2170FA2270427A007D6FBE /* TYHPrivateController.m in Sources */,
 				EE2E005F207DF6990062AB74 /* qcsClassDetailInsideXZTDetailCell.m in Sources */,
 				EE4203851FFE15410009D064 /* UIButton+Extention.m in Sources */,
-				EE3FFC6A2079B01B004CD2A9 /* TAAbstractDotView.m in Sources */,
 				EE42032E1FFE15410009D064 /* PAddServiceApplyCell.m in Sources */,
 				EE4203AF1FFE15410009D064 /* NSMutableAttributedString+MLLabel.m in Sources */,
 				EE4203441FFE15410009D064 /* PServiceApplyMainCell.m in Sources */,
@@ -7941,11 +7937,13 @@
 				EE6672392093334900890A73 /* qcsMenuTypeOneCell.m in Sources */,
 				EE4203711FFE15410009D064 /* OaCarDataModel.m in Sources */,
 				EE4203571FFE15410009D064 /* TYHButton.m in Sources */,
+				EE05AF4922A0FAAE001AC255 /* TAAbstractDotView.m in Sources */,
 				61E471491B7D963E00F4A1BF /* NTESSessionLocalHistoryViewController.m in Sources */,
 				EE42028B1FFE15400009D064 /* TYHCheckViewController.m in Sources */,
 				EE42014B1FFE153F0009D064 /* UIBarButtonItem+SXCreate.m in Sources */,
 				EE4201641FFE15400009D064 /* JSDropDownMenu.m in Sources */,
 				EE4203CA1FFE15420009D064 /* MMPopupitem.m in Sources */,
+				EE05AF4822A0FAAE001AC255 /* TAAnimatedDotView.m in Sources */,
 				61E4713F1B7D963E00F4A1BF /* NTESAudio2TextViewController.m in Sources */,
 				EE4201AC1FFE15400009D064 /* ZLPhotoPickerAssetsViewController.m in Sources */,
 				EE4203301FFE15410009D064 /* PAddVisitRecordCell.m in Sources */,
@@ -7970,7 +7968,6 @@
 				EE4202161FFE15400009D064 /* MRFeedBackListCell.m in Sources */,
 				EE4203AB1FFE15410009D064 /* NSString+NSString_ILExtension.m in Sources */,
 				834DC5CA1F1C9F2A00C9E0B3 /* NTESWhiteboardAttachment.m in Sources */,
-				EE3FFC702079B01B004CD2A9 /* UIView+SDExtension.m in Sources */,
 				EE21D50A21D75DF400EF404B /* LYSDateIndicatorViewController.m in Sources */,
 				EE1754F321D32A8B0058DCC6 /* qcsHomeworkObjectController.m in Sources */,
 				EE4203841FFE15410009D064 /* TYHHomeLabel.m in Sources */,
@@ -8064,11 +8061,11 @@
 				61E471621B7D963E00F4A1BF /* NTESAboutViewController.m in Sources */,
 				EE42025C1FFE15400009D064 /* RRecordDetailController.m in Sources */,
 				EE21D50921D75DF400EF404B /* LYSDateBasicViewController.m in Sources */,
-				EE3FFC6B2079B01B004CD2A9 /* TAAnimatedDotView.m in Sources */,
 				EEB1ECAE2099A2300005DAEB /* qcsStudyAnalyticsSearcuStudentController.m in Sources */,
 				EE42015E1FFE15400009D064 /* UITableView+FDKeyedHeightCache.m in Sources */,
 				EE4202121FFE15400009D064 /* MRDetailController.m in Sources */,
 				61E471411B7D963E00F4A1BF /* NTESFilePreViewController.m in Sources */,
+				EE05AF4722A0FAAE001AC255 /* TAPageControl.m in Sources */,
 				EE4201BE1FFE15400009D064 /* homeworkListCell.m in Sources */,
 				EE4203681FFE15410009D064 /* AppModelArrayHandler.m in Sources */,
 				EE42022E1FFE15400009D064 /* ACShowMediaTypeView.m in Sources */,
@@ -8076,6 +8073,7 @@
 				EE4203741FFE15410009D064 /* SchoolDataModel.m in Sources */,
 				EE4202691FFE15400009D064 /* AttendaceBuQianController.m in Sources */,
 				611ABF011B3CF4FC00B8706C /* NTESBadgeView.m in Sources */,
+				EE05AF4622A0FAAE001AC255 /* TADotView.m in Sources */,
 				EE4201D41FFE15400009D064 /* WHOutDetailController.m in Sources */,
 				EE42022F1FFE15400009D064 /* NSString+ACMediaExt.m in Sources */,
 				EE4202101FFE15400009D064 /* TranscriptHeaderView.m in Sources */,
@@ -8098,7 +8096,6 @@
 				EE4203641FFE15410009D064 /* TYHNewAppController.m in Sources */,
 				EE4201AD1FFE15400009D064 /* ZLPhotoPickerGroupViewController.m in Sources */,
 				EE4203191FFE15410009D064 /* PAddVisitRecordController.m in Sources */,
-				EE3FFC6E2079B01B004CD2A9 /* SDCollectionViewCell.m in Sources */,
 				EE4203A11FFE15410009D064 /* SchoolMatesModel.m in Sources */,
 				EE4201621FFE15400009D064 /* HPTextViewInternal.m in Sources */,
 				EE4203DF1FFE15420009D064 /* TYHFindPasswordController.m in Sources */,
@@ -8178,7 +8175,6 @@
 				EE4203921FFE15410009D064 /* TYHContactSchoolController.m in Sources */,
 				61E471071B7D963E00F4A1BF /* NTESSearchTeamViewController.m in Sources */,
 				EE2E00A8207F14630062AB74 /* qcsClassReviewInsideStudentController.m in Sources */,
-				EE3FFC6F2079B01B004CD2A9 /* SDCycleScrollView.m in Sources */,
 				EE4202ED1FFE15410009D064 /* SendModel.m in Sources */,
 				61E471671B7D963E00F4A1BF /* NTESSettingSwitcherCell.m in Sources */,
 				EE3FFC792079CF96004CD2A9 /* qcsClassReviewInsideStudentCell.m in Sources */,
@@ -8187,6 +8183,7 @@
 				EE4201BC1FFE15400009D064 /* HWListModel.m in Sources */,
 				EE42020D1FFE15400009D064 /* TranscriptHelper.m in Sources */,
 				EE4202E51FFE15410009D064 /* TYHNewNoticeViewController.m in Sources */,
+				EE05AF4322A0FAAE001AC255 /* SDCycleScrollView.m in Sources */,
 				EE2E009E207E1F710062AB74 /* qcsClassReviewSearchController.m in Sources */,
 				EE4203C81FFE15420009D064 /* MMAlertView.m in Sources */,
 				61E4710C1B7D963E00F4A1BF /* NTESTeamListViewController.m in Sources */,
@@ -8307,6 +8304,7 @@
 				EE4203271FFE15410009D064 /* PServiceApplicationDetailController.m in Sources */,
 				EE4201721FFE15400009D064 /* ViewController+MASAdditions.m in Sources */,
 				EE4201F11FFE15400009D064 /* WHApplicationDetailHeaderView.m in Sources */,
+				EE05AF4422A0FAAE001AC255 /* UIView+SDExtension.m in Sources */,
 				EE4203291FFE15410009D064 /* TYHProjectController.m in Sources */,
 				EE0BDBE12091D2CB00AAD516 /* CWDrawerTransition.m in Sources */,
 				EE4201931FFE15400009D064 /* WebViewJavascriptBridge.m in Sources */,
@@ -8345,6 +8343,7 @@
 				EE4202651FFE15400009D064 /* RNewRecordCell.m in Sources */,
 				EE4201A71FFE15400009D064 /* ZLPhotoPickerCustomToolBarView.m in Sources */,
 				EE4827DD201882EB00605E1B /* CAEvaluateController.m in Sources */,
+				EE05AF4522A0FAAE001AC255 /* SDCollectionViewCell.m in Sources */,
 				EE4203B41FFE15410009D064 /* NSString+MLExpression.m in Sources */,
 				EE21D50E21D75DF400EF404B /* LYSDatePickerItem.m in Sources */,
 				EE0BDBE32091D2CB00AAD516 /* CWLateralSlideAnimator.m in Sources */,
