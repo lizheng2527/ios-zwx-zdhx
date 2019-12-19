@@ -69,6 +69,10 @@
     self.contentScrollView.showsHorizontalScrollIndicator = NO;
     [self.view addSubview:self.contentScrollView];
     
+//    UIView *view = [[UIView alloc] initWithFrame:CGRectMake(20, 300, 100, 200)];
+//    view.backgroundColor = UIColor.blueColor;
+//    [self.view addSubview:view];
+    
 }
 
 
@@ -182,7 +186,7 @@ static CGFloat labelW;
     
     labelW = labelWidth / (_indexAll + 1);
     
-    NSInteger  index = self.childViewControllers.count;
+//    NSInteger  index = self.childViewControllers.count;
     // 添加label
     for (NSInteger i = 0; i<=_indexAll; i++) {
         CGFloat labelX = i * labelW;
@@ -367,7 +371,7 @@ static CGFloat labelW;
             return;
         }
     }
-    [(QCSHomeLabel *)rightLabel setScale:(CGFloat)rightScale];
+//    [(QCSHomeLabel *)rightLabel setScale:(CGFloat)rightScale];
 }
 
 
@@ -377,6 +381,10 @@ static CGFloat labelW;
 - (void)viewDidDisappear:(BOOL)animated
 {
     [super viewDidDisappear: animated];
+}
+
+- (void)viewWillAppear:(BOOL)animated{
+    [super viewWillAppear:animated];
 }
 
 

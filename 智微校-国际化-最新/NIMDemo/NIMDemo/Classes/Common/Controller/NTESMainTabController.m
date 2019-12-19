@@ -29,6 +29,7 @@ typedef NS_ENUM(NSInteger,NTESMainTabType) {
     NTESMainTabTypeContact,        //通讯录
     NTESMainTabTypeChatroomList,   //聊天室
     NTESMainTabTypeSetting,        //设置
+    
 };
 
 

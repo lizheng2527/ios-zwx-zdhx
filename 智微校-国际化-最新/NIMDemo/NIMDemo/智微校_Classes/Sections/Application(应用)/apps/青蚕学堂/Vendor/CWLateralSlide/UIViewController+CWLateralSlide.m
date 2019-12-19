@@ -33,6 +33,7 @@
         objc_setAssociatedObject(viewController, &CWLateralSlideAnimatorKey, animator, OBJC_ASSOCIATION_RETAIN_NONATOMIC);
     }
     viewController.transitioningDelegate = animator;
+    viewController.modalPresentationStyle = 0;
     objc_setAssociatedObject(viewController, &CWLateralSlideDirectionKey, @(configuration.direction), OBJC_ASSOCIATION_ASSIGN);
 
     CWInteractiveTransition *interactiveHidden = [CWInteractiveTransition interactiveWithTransitiontype:CWDrawerTransitiontypeHidden];
@@ -42,9 +43,7 @@
     [animator setValue:interactiveHidden forKey:@"interactiveHidden"];
     animator.configuration = configuration;
     animator.animationType = animationType;
-
     [self presentViewController:viewController animated:YES completion:nil];
-    
 }
 
 // 注册抽屉手势

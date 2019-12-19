@@ -28,10 +28,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
     [self setupTableView];
-    
     self.view.backgroundColor = [UIColor clearColor];
 }
-
 
 - (void)setupTableView {
     
@@ -132,7 +130,7 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     [tableView deselectRowAtIndexPath:indexPath animated:YES];
-    
+    [self dismissViewControllerAnimated:YES completion:nil];
     switch (self.tapType) {
         case TapBigData:
         {
@@ -146,6 +144,7 @@
             if (self.delegate && [self.delegate respondsToSelector:@selector(menuTableCellSelectedWithIndexpathRowOfClass:)] ) {
                 QCSSourceModel *model = [[QCSSourceHandler getStudyAnalyticsArrayClass] objectAtIndex:indexPath.row];
                 if ([model.level isEqualToString:@"1"]) {
+                    
                     [self.delegate menuTableCellSelectedWithIndexpathRowOfClass:indexPath.row];
                 }
                 else return;
@@ -163,8 +162,7 @@
         default:
             break;
     }
-    [self dismissViewControllerAnimated:YES completion:nil];
-
+    
 }
 
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {

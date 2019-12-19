@@ -77,19 +77,18 @@
     
     UIViewController *fromVC = [transitionContext viewControllerForKey:UITransitionContextFromViewControllerKey];
     UIViewController *toVC = [transitionContext viewControllerForKey:UITransitionContextToViewControllerKey];
-    
+
     CWMaskView *maskView = [CWMaskView shareInstance];
     for (UIView *view in toVC.view.subviews) {
         if (![maskView.toViewSubViews containsObject:view]) {
             [view removeFromSuperview];
         }
     }
-
     UIView *containerView = [transitionContext containerView];
     UIImageView *backImageView;
     if ([containerView.subviews.firstObject isKindOfClass:[UIImageView class]])
         backImageView = containerView.subviews.firstObject;
-    
+
     [UIView animateKeyframesWithDuration:[self transitionDuration:transitionContext] delay:_hiddenDelayTime options:UIViewKeyframeAnimationOptionCalculationModeCubic animations:^{
 
         [UIView addKeyframeWithRelativeStartTime:0 relativeDuration:1.0 animations:^{
@@ -98,16 +97,24 @@
             maskView.alpha = 0;
             backImageView.transform = CGAffineTransformMakeScale(1.4, 1.4);
         }];
-        
+
     } completion:^(BOOL finished) {
         if (![transitionContext transitionWasCancelled]) {
             maskView.toViewSubViews = nil;
             [CWMaskView releaseInstance];
             [backImageView removeFromSuperview];
         }
+//          bool b =[transitionContext transitionWasCancelled];
+//          [transitionContext completeTransition:YES];
+//        [transitionContext finishInteractiveTransition];
+//        [transitionContext completeTransition:NO];
+        
         [transitionContext completeTransition:![transitionContext transitionWasCancelled]];
         
+        
     }];
+    
+    
 }
 
 - (void)defaultAnimationWithContext:(id <UIViewControllerContextTransitioning>)transitionContext {
@@ -149,7 +156,6 @@
     }else {
         toVCTransform = CGAffineTransformMakeTranslation(ret * width / 2, 0);
     }
-    
     [UIView animateKeyframesWithDuration:[self transitionDuration:transitionContext] delay:0 options:0 animations:^{
         
         [UIView addKeyframeWithRelativeStartTime:0.0 relativeDuration:1.0 animations:^{

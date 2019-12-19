@@ -363,9 +363,6 @@
                     } failure:^(NSError *error) {
                         [MBProgressHUD hideHUDForView:self.view animated:YES];
                     }];
-                    
-                    
-                    
                 }
                 else
                 {

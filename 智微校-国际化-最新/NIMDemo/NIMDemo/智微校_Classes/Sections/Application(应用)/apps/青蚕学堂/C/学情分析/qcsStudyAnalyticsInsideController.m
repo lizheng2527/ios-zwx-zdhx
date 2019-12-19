@@ -41,6 +41,8 @@
     
     NSString *studentID;
 }
+
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
@@ -340,12 +342,11 @@
             }
         }
     }
-    
 }
 
 
 #pragma mark - private
--(void)menuSowAction:(id)sender
+-(void)menuSowAction:(id)sender//点击显示抽屉
 {
     
     if ([[[QCSchoolTagHandle sharedInstance] currentViewTypeOfAnalytic]  isEqualToString:@"TapBigData"]) {
@@ -363,10 +364,12 @@
         
     }else if([[[QCSchoolTagHandle sharedInstance] currentViewTypeOfAnalytic] isEqualToString:@"TapClass"])
     {
+
         qcsMenuTableController *vc = [[qcsMenuTableController alloc] init];
         vc.drawerType = DrawerTypeMaskLeft;
         vc.tapType = TapClass;
         vc.delegate = self;
+        
         [self cw_showDrawerViewController:vc animationType:CWDrawerAnimationTypeMask configuration:nil];
     }
     else if([[[QCSchoolTagHandle sharedInstance] currentViewTypeOfAnalytic] isEqualToString:@"TapStudent"])
@@ -375,6 +378,7 @@
         vc.drawerType = DrawerTypeMaskLeft;
         vc.tapType = TapStudent;
         vc.delegate = self;
+        
         [self cw_showDrawerViewController:vc animationType:CWDrawerAnimationTypeMask configuration:nil];
     }
     

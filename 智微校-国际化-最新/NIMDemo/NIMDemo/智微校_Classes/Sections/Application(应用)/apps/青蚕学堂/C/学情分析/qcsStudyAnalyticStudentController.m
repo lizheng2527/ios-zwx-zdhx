@@ -161,12 +161,13 @@
 
 
 #pragma mark - private
--(void)menuSowAction:(id)sender
+-(void)menuSowAction:(id)sender// 点击显示抽屉
 {
             qcsMenuTableController *vc = [[qcsMenuTableController alloc] init];
             vc.drawerType = DrawerTypeMaskLeft;
             vc.tapType = TapStudent;
             vc.delegate = self;
+    
             [self cw_showDrawerViewController:vc animationType:CWDrawerAnimationTypeMask configuration:nil];
 }
 
